@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalog>
+    <products>
+        <product>
+            <id></id>
+            <code1C></code1C>
+            <barcode></barcode>
+            <article></article>
+
+            <!-- <nameUa>Кросівки United Colors of Benetton 8H6DB094J.K 901, Розмір 40 - TEST</nameUa>
+            <nameRu>Кроссовки United Colors of Benetton 8H6DB094J.K 901, Размер 40 - TEST RU</nameRu> -->
+
+            <shortDescriptionUa>тест з пустим ідентифікатором, shortDescriptionUa</shortDescriptionUa>
+            <shortDescriptionRu>тест з пустим ідентифікатором, shortDescriptionRu</shortDescriptionRu>
+
+            <descriptionUa>тест з пустим ідентифікатором, descriptionUa</descriptionUa>
+
+            <descriptionRu>тест з пустим ідентифікатором, descriptionRu</descriptionRu>
+
+            <images>
+                <image>https://picsum.photos/id/1025/800/800</image>
+            </images>
+
+            <properties>
+
+            </properties>
+        </product>
+    </products>
+</catalog>

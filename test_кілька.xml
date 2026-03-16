@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalog>
+    <products>
+        <product>
+            <id>186713</id>
+            <code1C>ЦОФ00024922</code1C>
+            <barcode></barcode>
+            <article>8032845239552</article>
+
+            <nameUa>Кросівки United Colors of Benetton 8H6DB094J.K 901, Розмір 40 - TEST</nameUa>
+            <nameRu>Кроссовки United Colors of Benetton 8H6DB094J.K 901, Размер 40 - TEST RU</nameRu>
+
+            <shortDescriptionUa><![CDATA[United Colors of Benetto - TEST]]></shortDescriptionUa>
+            <shortDescriptionRu><![CDATA[United Colors of Benetto - TEST RU]]></shortDescriptionRu>
+
+            <descriptionUa><![CDATA[
+                <p>222 TEST - Снікерси на шнурівці, верх з м&#39;ятим ефектом, отвори та блискавка з язичком із застарілої латуні. Плямистий чорний принт, підкладка з бавовни.</p>
+
+                <ul>
+                    <li>TEST - КОЛІР: РІЗНОКОЛЬОРОВИЙ</li>
+                    <li>TEST - UPPER 100%SYNTHETIC</li>
+                    <li>TEST - INSIDE 100%FABRIC</li>
+                    <li>TEST - SOLE 100%SYNTHETIC</li>
+                </ul>
+            ]]></descriptionUa>
+
+            <descriptionRu><![CDATA[
+                <p>222 TEST RU - Сникерсы на шнуровке, верх с мятым эффектом, отверстия и молния с язычком из устаревшей латуни. Пятнистый черный принт, подкладка из хлопка.</p>
+
+                <ul>
+                    <li>TEST RU - ЦВЕТ: РАЗНОЦВЕТНЫЙ</li>
+                    <li>TEST RU - UPPER 100%SYNTHETIC</li>
+                    <li>TEST RU - INSIDE 100%FABRIC</li>
+                    <li>TEST RU - SOLE 100%SYNTHETIC</li>
+                </ul>
+            ]]></descriptionRu>
+
+            <images>
+                <image>https://images.unsplash.com/photo-1542291026-7eec264c27ff</image>
+                <image>https://images.unsplash.com/photo-1600185365483-26d7a4cc7519</image>
+                <image>https://images.unsplash.com/photo-1525966222134-fcfa99b8ae77</image>
+            </images>
+
+            <properties>
+                <property id="38645" nameUa="Розмір" nameRu="Размер" valueId="59550" valueUa="37" valueRu="37" />
+                <property id="38645" nameUa="Розмір" nameRu="Размер" valueId="59551" valueUa="38" valueRu="38" />
+                <property id="38646" nameUa="Колір" nameRu="Цвет" valueId="1001" valueUa="Чорний" valueRu="Черный" />
+                <property id="38647" nameUa="Матеріал верху" nameRu="Материал верха" valueId="2001" valueUa="Текстиль" valueRu="Текстиль" />
+            </properties>
+        </product>
+        <product>
+            <id>594513</id>
+            <code1C>ЦОФ00488068</code1C>
+            <barcode></barcode>
+            <article></article>
+
+            <nameUa>Сабо чоловічі Skechers GoWalk 5 - Astonished 243002 NVRD 43 (10 US) сині - TEST UA</nameUa>
+            <nameRu>Сабо мужские Skechers GoWalk 5 - Astonished 243002 NVRD 43 (10 US) синие - TEST RU</nameRu>
+
+            <shortDescriptionUa><![CDATA[222 Сабо чоловічі Skechers GoWalk 5 сині - TEST_UA]]></shortDescriptionUa>
+            <shortDescriptionRu><![CDATA[222 Сабо мужские Skechers GoWalk 5 синие - TEST_RU]]></shortDescriptionRu>
+
+            <descriptionUa><![CDATA[
+                <h3 style="text-align:justify">222 TEST_UA Дивовижний комфорт у кожному кроці з Skechers Go Walk 5</h3>
+
+                <p style="text-align:justify">Ці перфоровані сабо - мають гнучкий верх піноматеріалу EVA, що переходить у легку підошву ULTRA GO з технологією Comfort Pillar.</p>
+
+                <h3 style="text-align:justify">Особливості:</h3>
+
+                <ul>
+                    <li style="text-align:justify">Легка підошва ULTRA GO з м&#39;якою амортизацією.</li>
+                    <li style="text-align:justify">Технологія Comfort Pillar.</li>
+                    <li style="text-align:justify">Легкий гнучкий верх з піноматеріалу EVA.</li>
+                    <li style="text-align:justify">Контурна устілка.</li>
+                    <li style="text-align:justify">Перфорована конструкція з ремінцем для п&#39;яти.</li>
+                    <li style="text-align:justify">Підходять для води.</li>
+                </ul>
+            ]]></descriptionUa>
+
+            <descriptionRu><![CDATA[
+                <h3 style="text-align:justify">222 TEST_RU Удивительный комфорт в каждом шаге с Skechers Go Walk 5</h3>
+
+                <p style="text-align:justify">Эти перфорированные сабо - имеют гибкий верх пеноматериала EVA, переходящий в легкую подошву ULTRA GO с технологией Comfort Pillar.</p>
+
+                <h3 style="text-align:justify">Особенности:</h3>
+
+                <ul>
+                    <li style="text-align:justify">Легкая подошва ULTRA GO с мягкой амортизацией.</li>
+                    <li style="text-align:justify">Технология Comfort Pillar.</li>
+                    <li style="text-align:justify">Легкий гибкий верх из пеноматериала EVA.</li>
+                    <li style="text-align:justify">Контурная стелька.</li>
+                    <li style="text-align:justify">Перфорированная конструкция с ремешком для пятки.</li>
+                    <li style="text-align:justify">Подходят для воды.</li>
+                </ul>
+            ]]></descriptionRu>
+
+            <images>
+                <image>https://i.moyo.ua/img/products/6434/46_4000.jpg</image>
+                <image>https://i.moyo.ua/img/products/6434/51_4000.jpg</image>
+            </images>
+
+            <properties>
+                <property id="38645" nameUa="Розмір" nameRu="Размер" valueId="59550" valueUa="37" valueRu="37" />
+                <property id="38645" nameUa="Розмір" nameRu="Размер" valueId="59551" valueUa="38" valueRu="38" />
+                <property id="38646" nameUa="Колір" nameRu="Цвет" valueId="1001" valueUa="Чорний" valueRu="Черный" />
+            </properties>
+        </product>
+        <product>
+            <id>10055</id>
+            <code1C>ЦОФ00001564</code1C>
+            <barcode></barcode>
+            <article></article>
+
+            <nameUa>Акумулятор SONY BZ, FW та SR series підвищеної ємності - TEST</nameUa>
+            <nameRu>Аккумулятор SONY BZ, FW и SR series повышенной емкости - TEST RU</nameRu>
+
+            <shortDescriptionUa><![CDATA[TEST shortDescriptionUa]]></shortDescriptionUa>
+            <shortDescriptionRu><![CDATA[TEST RU - shortDescriptionRu]]></shortDescriptionRu>
+
+            <descriptionUa><![CDATA[222 TEST descriptionUa]]></descriptionUa>
+
+            <descriptionRu><![CDATA[222 TEST descriptionRu]]></descriptionRu>
+
+            <images>
+                <image>https://picsum.photos/id/1025/800/800</image>
+                <image>https://aurum.in.ua/upload/iblock/3f4/nsamzmpjpx88g1nxnq0v3kd1z8z0pfsp13661366.webp</image>
+            </images>
+
+            <properties>
+
+            </properties>
+        </product>
+    </products>
+</catalog>
