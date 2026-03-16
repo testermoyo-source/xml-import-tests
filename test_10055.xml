@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalog>
+    <products>
+        <product>
+            <id>10055</id>
+            <code1C>ЦОФ00001564</code1C>
+            <barcode></barcode>
+            <article></article>
+
+            <nameUa>Акумулятор SONY BZ, FW та SR series підвищеної ємності - TEST</nameUa>
+            <nameRu>Аккумулятор SONY BZ, FW и SR series повышенной емкости - TEST RU</nameRu>
+
+            <shortDescriptionUa><![CDATA[TEST shortDescriptionUa]]></shortDescriptionUa>
+            <shortDescriptionRu><![CDATA[TEST RU - shortDescriptionRu]]></shortDescriptionRu>
+
+            <descriptionUa><![CDATA[TEST descriptionUa]]></descriptionUa>
+
+            <descriptionRu><![CDATA[TEST descriptionRu]]></descriptionRu>
+
+            <images>
+                <image>https://picsum.photos/id/1025/800/800</image>
+                <image>https://picsum.photos/id/1025/800/asdasdasd</image>
+            </images>
+
+            <properties>
+
+            </properties>
+        </product>
+    </products>
+</catalog>
