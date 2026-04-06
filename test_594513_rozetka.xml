@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2026-04-02 12:00:00">
+    <shop>
+        <n>Тестовий магазин</n>
+        <company>Test Company</company>
+        <url>https://test-shop.com.ua</url>
+        <categories>
+            <category id="1">Взуття</category>
+            <category id="2" parentId="1">Сабо</category>
+        </categories>
+        <offers>
+            <offer id="594513" available="true">
+                <rozetka_art>492463039</rozetka_art>
+                <url>https://test-shop.com.ua/products/594513</url>
+                <art_local>KM3587-100</art_local>
+                <ean>194428033129</ean>
+                <supplier_code>ЦОФ00488068</supplier_code>
+                <price>1299.00</price>
+                <currencyId>UAH</currencyId>
+                <categoryId>2</categoryId>
+                <picture>https://i.moyo.ua/img/products/6434/46_4000.jpg</picture>
+                <picture>https://i.moyo.ua/img/products/6434/51_4000.jpg</picture>
+                <vendor>Skechers</vendor>
+                <country>Україна</country>
+                <stock_quantity>1</stock_quantity>
+                <n>Сабо чоловічі Skechers GoWalk 5 - Astonished 243002 NVRD 43 (10 US) сині - TEST UA</n>
+                <description>TEST_UA Дивовижний комфорт у кожному кроці з Skechers Go Walk 5. Ці перфоровані сабо мають гнучкий верх піноматеріалу EVA, що переходить у легку підошву ULTRA GO з технологією Comfort Pillar.</description>
+                <size_description>35р – 22 см, 36р – 23 см</size_description>
+                <min_cart_quantity>1</min_cart_quantity>
+                <param name="Розмір EU">35</param>
+                <param name="Основний колір">Фіолетовий</param>
+                <param name="Стать">Для жінок</param>
+            </offer>
+        </offers>
+    </shop>
+</yml_catalog>
