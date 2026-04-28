@@ -1,0 +1,934 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2026-04-23 12:00:00">
+    <shop>
+        <n>Тестовий магазин</n>
+        <company>Test Company</company>
+        <url>https://test-shop.com.ua</url>
+        <categories>
+            <category id="7219">Обувь, одежда и аксессуары / Обувь / Кроссовки</category>
+            <category id="2844">Смартфони / Мобільні телефони / Смартфони</category>
+            <category id="3015">ТВ, Фото, Відео, Аудіо / ТВ, проектори, медіаплеєри / Телевізори</category>
+            <category id="7220">Одяг / Футболки і поло / Футболки</category>
+            <category id="7427">Взуття, одяг та аксесуари / Взуття / Бутси</category>
+        </categories>
+        <offers>
+
+            <!-- id=591385, категорія=7219 | Обувь, одежда и аксессуары / Обувь / Кроссовки -->
+            <offer id="591385" available="true">
+                <url>https://nadm-dev.moyo.ua/products/update?id=591385</url>
+                <art_local>KW8825-110</art_local>
+                <ean>196989322919</ean>
+                <supplier_code>ЦОФ00487672</supplier_code>
+                <price>999.00</price>
+                <currencyId>UAH</currencyId>
+                <categoryId>7219</categoryId>
+                <picture>https://raw.githubusercontent.com/testermoyo-source/xml-import-tests/refs/heads/main/test_xml_import.png</picture>
+                <n>Кросівки жіночі Skechers Sport Skech-Lite Pro - Glimmer Me 150041 ROS 41 (11 US) рожеві</n>
+                <description><![CDATA[<p>TEST_UA 333</p><p style="text-align:justify">Витончений стиль і комфорт поєднуються в Skechers Skech-Lite Pro - Glimmer Me. Ця модель має еластичний сітчастий верх із райдужними накладками та устілку з піни з вентиляцією й амортизацією.</p>
+
+<h3 style="text-align:justify">Особливості:</h3>
+
+<ul>
+	<li style="text-align:justify">Зручна устілка Skechers Air-Cooled Memory Foam.</li>
+	<li style="text-align:justify">Виготовлено зі 100% веганських матеріалів.</li>
+	<li style="text-align:justify">Сітчастий верх з райдужними термоплавкими накладками та еластичними шнурками.</li>
+	<li style="text-align:justify">Амортизувальна проміжна підошва Skech-Lite, що амортизує.</li>
+	<li style="text-align:justify">М&#39;яка підошва.</li>
+</ul>
+
+<h3 style="text-align:justify">Рекомендації з догляду:</h3>
+
+<ul>
+	<li style="text-align:justify">Після кожного носіння просушувати взуття, уникаючи нагрівання.</li>
+	<li style="text-align:justify">Використовувати вологозахисний спрей.</li>
+	<li style="text-align:justify">Рекомендується хімчистка, якщо виробник не вказав інший спосіб чищення на виробі або упаковці.</li>
+	<li style="text-align:justify">Уникати сильного намокання під час носіння.</li>
+	<li style="text-align:justify">Зберігати взуття, використовуючи спеціальні вставки або папір для підтримки форми.</li>
+</ul>]]></description>
+                <param name="Підкладка">ЕВА піна</param>
+                <param name="Тип застібки">Без застібання</param>
+                <param name="Стиль оформлення">Яскравий принт</param>
+            </offer>
+
+            <!-- id=591470, категорія=7219 | Обувь, одежда и аксессуары / Обувь / Кроссовки -->
+            <offer id="591470" available="true">
+                <url>https://nadm-dev.moyo.ua/products/update?id=591470</url>
+                <art_local>KK3565-15</art_local>
+                <ean>196989487397</ean>
+                <supplier_code>ЦОФ00487755</supplier_code>
+                <price>999.00</price>
+                <currencyId>UAH</currencyId>
+                <categoryId>7219</categoryId>
+                <picture>https://raw.githubusercontent.com/testermoyo-source/xml-import-tests/refs/heads/main/test_xml_import.png</picture>
+                <n>Кросівки для дівчаток Skechers Dynamatic 303552L BLK 33 (1.5 US) чорні</n>
+                <description><![CDATA[<p>TEST_UA 333</p><p style="text-align:justify">Пригоди чекають на вас разом з кросівками Skechers Dynamatic. Ці спортивні кросівки мають верх із сітчастого текстилю та синтетики, що дозволяє відводити зайве тепло, а зручна амортизуюча проміжна підошва зробить кожний ваш крок комфортним.</p>
+
+<h3 style="text-align:justify">Особливості:</h3>
+
+<ul>
+	<li style="text-align:justify">Легкий повсякденний дизайн;</li>
+	<li style="text-align:justify">Верх із сітчастого текстилю та синтетики;</li>
+	<li style="text-align:justify">Застібка-липучка;</li>
+	<li style="text-align:justify">М&#39;яка, комфортна устілка;</li>
+	<li style="text-align:justify">Гнучка підошва.</li>
+</ul>
+
+<h3>Рекомендації з догляду:</h3>
+
+<ul>
+	<li>Після кожного носіння просушувати взуття, уникаючи нагрівання.</li>
+	<li>Використовувати вологозахисний спрей.</li>
+	<li>Рекомендується хімчистка, якщо виробник не вказав інший спосіб чищення на виробі або упаковці.</li>
+	<li>Уникати сильного намокання під час носіння.</li>
+	<li>Зберігати взуття в коробці, використовуючи спеціальні вставки або папір для підтримки форми.</li>
+</ul>]]></description>
+                <param name="Підкладка">Еко-шкіра</param>
+                <param name="Тип застібки">Велкро</param>
+                <param name="Стиль оформлення">Монохромний</param>
+            </offer>
+
+            <!-- id=591482, категорія=7219 | Обувь, одежда и аксессуары / Обувь / Кроссовки -->
+            <offer id="591482" available="true">
+                <url>https://nadm-dev.moyo.ua/products/update?id=591482</url>
+                <art_local>KK3565-35</art_local>
+                <ean>196989487434</ean>
+                <supplier_code>ЦОФ00487767</supplier_code>
+                <price>999.00</price>
+                <currencyId>UAH</currencyId>
+                <categoryId>7219</categoryId>
+                <picture>https://raw.githubusercontent.com/testermoyo-source/xml-import-tests/refs/heads/main/test_xml_import.png</picture>
+                <n>Кросівки для дівчаток Skechers Dynamatic 303552L BLK 35.5 (3.5 US) чорні</n>
+                <description><![CDATA[<p>TEST_UA 333</p><p style="text-align:justify">Пригоди чекають на вас разом з кросівками Skechers Dynamatic. Ці спортивні кросівки мають верх із сітчастого текстилю та синтетики, що дозволяє відводити зайве тепло, а зручна амортизуюча проміжна підошва зробить кожний ваш крок комфортним.</p>
+
+<h3 style="text-align:justify">Особливості:</h3>
+
+<ul>
+	<li style="text-align:justify">Легкий повсякденний дизайн;</li>
+	<li style="text-align:justify">Верх із сітчастого текстилю та синтетики;</li>
+	<li style="text-align:justify">Застібка-липучка;</li>
+	<li style="text-align:justify">М&#39;яка, комфортна устілка;</li>
+	<li style="text-align:justify">Гнучка підошва.</li>
+</ul>
+
+<h3>Рекомендації з догляду:</h3>
+
+<ul>
+	<li>Після кожного носіння просушувати взуття, уникаючи нагрівання.</li>
+	<li>Використовувати вологозахисний спрей.</li>
+	<li>Рекомендується хімчистка, якщо виробник не вказав інший спосіб чищення на виробі або упаковці.</li>
+	<li>Уникати сильного намокання під час носіння.</li>
+	<li>Зберігати взуття в коробці, використовуючи спеціальні вставки або папір для підтримки форми.</li>
+</ul>]]></description>
+                <param name="Підкладка">Штучне хутро (зовн.)</param>
+                <param name="Тип застібки">Замок-блискавка</param>
+                <param name="Розмір ступні">11,7 (зовн.)</param>
+            </offer>
+
+            <!-- id=592355, категорія=7219 | Обувь, одежда и аксессуары / Обувь / Кроссовки -->
+            <offer id="592355" available="true">
+                <url>https://nadm-dev.moyo.ua/products/update?id=592355</url>
+                <art_local>XK8836-25</art_local>
+                <ean>8056206497047</ean>
+                <supplier_code>ЦОФ00488486</supplier_code>
+                <price>999.00</price>
+                <currencyId>UAH</currencyId>
+                <categoryId>7219</categoryId>
+                <picture>https://raw.githubusercontent.com/testermoyo-source/xml-import-tests/refs/heads/main/test_xml_import.png</picture>
+                <n>Кросівки для дівчаток Geox B Macchia Girl B364PC-08510-C8W1M 25 рожеві</n>
+                <description><![CDATA[<p>TEST_UA 333</p><p style="text-align:justify">Кросівки для дівчинки мають повітропроникний дизайн та привабливу естетику в стилі кежуал. Ця версія Macchia ніжно-рожевого кольору з м&#39;яким верхом та практичною застібкою на липучці, яка забезпечує легке взування та регульовану посадку. Також гарантується підтримка, захист та максимальне відчуття комфорту для маленьких дослідників.</p>
+
+<h3 style="text-align:justify">Особливості:</h3>
+
+<ul>
+	<li style="text-align:justify">Відмінна гнучкість, гарантована протектором Flexy System.</li>
+	<li style="text-align:justify">Зручні в носінні.</li>
+	<li style="text-align:justify">Посилений носок та підтримка гомілковостопного суглоба.</li>
+	<li style="text-align:justify">Одинарна застібка на липучці та еластична шнурівка.</li>
+	<li style="text-align:justify">Антибактеріальна устілка, виготовлена з нетоксичної шкіри, яка не містить хрому.</li>
+</ul>]]></description>
+                <param name="Підкладка">Натуральна шкіра</param>
+                <param name="Розмір ступні">12 (зовн.)</param>
+                <param name="Стиль оформлення">З принтом (зовн.)</param>
+            </offer>
+
+            <!-- id=592505, категорія=7219 | Обувь, одежда и аксессуары / Обувь / Кроссовки -->
+            <offer id="592505" available="true">
+                <url>https://nadm-dev.moyo.ua/products/update?id=592505</url>
+                <art_local>XK8844-39</art_local>
+                <ean>8056206554443</ean>
+                <supplier_code>ЦОФ00488636</supplier_code>
+                <price>999.00</price>
+                <currencyId>UAH</currencyId>
+                <categoryId>7219</categoryId>
+                <picture>https://raw.githubusercontent.com/testermoyo-source/xml-import-tests/refs/heads/main/test_xml_import.png</picture>
+                <n>Кросівки для дівчаток Geox J Eclyper Girl J36LRA-000BC-C0761 39 білі</n>
+                <description><![CDATA[<p>TEST_UA 333</p><p style="text-align:justify">Легкі та зручні кросівки, натхненні класикою тенісного корту. М&#39;який матеріал зі шкіряним ефектом ідеально облягає ногу, а еластична шнурівка та зручна застібка на липучці дозволяють швидко взутися та відчути себе максимально комфортно. Бузкові акценти додають взуттю свіжості та оригінальності, роблячи його яскравим доповненням до будь-якого повсякденного образу. Ці кросівки &ndash; ідеальний вибір для тих, хто цінує стиль та комфорт.</p>
+
+<h3 style="text-align:justify">Особливості:</h3>
+
+<ul>
+	<li style="text-align:justify">Виготовлені з високоякісних матеріалів, прослужать довгі роки.</li>
+	<li style="text-align:justify">Зручна устілка забезпечує комфорт та підтримку стопи протягом усього дня.</li>
+	<li style="text-align:justify">Технології амортизації зменшують навантаження на суглоби та роблять ходьбу більш приємною.</li>
+</ul>]]></description>
+                <param name="Підкладка">Мікрофібра тканина</param>
+                <param name="Тип застібки">Класичні шнурки</param>
+                <param name="Розмір ступні">12,4 (зовн.)</param>
+            </offer>
+
+            <!-- id=745925, категорія=2844 | Смартфони / Мобільні телефони / Смартфони -->
+            <offer id="745925" available="true">
+                <url>https://nadm-dev.moyo.ua/products/update?id=745925</url>
+                <art_local>SM-A165FZKBEUC</art_local>
+                <ean>2210000047969</ean>
+                <price>999.00</price>
+                <currencyId>UAH</currencyId>
+                <categoryId>2844</categoryId>
+                <picture>https://raw.githubusercontent.com/testermoyo-source/xml-import-tests/refs/heads/main/test_xml_import.png</picture>
+                <n>Смартфон Samsung Galaxy A16 4/128Gb Black (SM-A165FZKBEUC)</n>
+                <description><![CDATA[<p>IMEI-номер на смартфоні та на упаковці відрізняється</p>]]></description>
+                <param name="Тип SIM">eSIM</param>
+                <param name="Рік виходу">2013 (зовн.)</param>
+                <param name="BT профіль">A2DP профіль</param>
+            </offer>
+
+            <!-- id=750384, категорія=2844 | Смартфони / Мобільні телефони / Смартфони -->
+            <offer id="750384" available="true">
+                <url>https://nadm-dev.moyo.ua/products/update?id=750384</url>
+                <art_local>2AMU7C3</art_local>
+                <supplier_code>ЦОФ00647005</supplier_code>
+                <price>999.00</price>
+                <currencyId>UAH</currencyId>
+                <categoryId>2844</categoryId>
+                <picture>https://raw.githubusercontent.com/testermoyo-source/xml-import-tests/refs/heads/main/test_xml_import.png</picture>
+                <n>Смартфон Refurbished Apple iPhone 15 Pro Max 512GB Black Titanium (Відмінний стан , A)</n>
+                <description><![CDATA[<p style="text-align:justify">Порядок дій, у разі виникнення гарантійного випадку упродовж гарантійного терміну (12 місяців):</p>
+
+<ul>
+	<li style="text-align:justify">Зверніться до будь-якого магазину MOYO, аби товар передали на діагностику;</li>
+	<li style="text-align:justify">Упродовж 48&nbsp;годин після отримання товару Сервісним Центром буде видано: заключення про офіційне обслуговування чи акт заміни товару або відмова у разі порушення вимог гарантійного обслуговування;</li>
+	<li style="text-align:justify">У разі нескладного ремонту - він буде проведений впродовж цих 48&nbsp;годин;</li>
+	<li style="text-align:justify">Якщо впродовж гарантійного терміну (12 місяців) ємність акумулятора знизиться нижче 80% - його заміна буде проведена безкоштовно.</li>
+</ul>
+
+<p style="text-align:justify">Refurbished Breezy &ndash; це вживані смартфони, які пройшли ремонт, тестування та відновлення у сертифікованому сервісному центрі Breezy до стану, близького до нового:</p>
+
+<ul>
+	<li style="text-align:justify">100% функціональність за 55 тестами;</li>
+	<li style="text-align:justify">100% оригінальні пристрої;</li>
+	<li style="text-align:justify">1 рік гарантії.</li>
+</ul>
+
+<p style="text-align:justify">Компанія Breezy, яка відновлює пристрої - №1 провайдер послуги Trade-in в Україні. Є частиною міжнародного холдингу ASBIS, дистриб&rsquo;ютора IT продуктів у понад 75 країн.</p>
+
+<p style="text-align:justify">Відновлені iPhone Breezy можуть мати різний зовнішній стан &ndash; від майже нового до незначних слідів експлуатації на корпусі. Такі відмінності регулюються різними грейдами. Грейд відображено у назві моделі як (REF, A+), (REF, A), (REF, B) або (REF, C).</p>
+
+<p style="text-align:center"><img alt="" src="https://i.moyo.ua/img/media/images/multiple.jpg" style="height:653px; width:1000px" /></p>
+
+<h3 style="text-align:justify">Грейд А+</h3>
+
+<p style="text-align:justify">Це преміум рівень. Ідеальний стан пристроїв цього грейду практично як в нової техніки. А саме:</p>
+
+<ul>
+	<li style="text-align:justify">Можуть бути одиничні мікроподряпини;</li>
+	<li style="text-align:justify">Можливо була заміна окремих компонентів з метою ремонту.</li>
+</ul>
+
+<p style="text-align:center"><img alt="" src="https://i.moyo.ua/img/media/images/a%2B.jpg" style="height:650px; width:591px" /></p>
+
+<h3 style="text-align:justify">Грейд А</h3>
+
+<p style="text-align:justify">Відмінний рівень. Виглядає як через тиждень обережного використання. А саме:</p>
+
+<ul>
+	<li style="text-align:justify">Можуть бути мікроподряпини чи потертості, помітні лише під час ретельного огляду;</li>
+	<li style="text-align:justify">Можливо була заміна окремих компонентів з метою ремонту.</li>
+</ul>
+
+<p style="text-align:center"><img alt="" src="https://i.moyo.ua/img/media/images/a(6).jpg" style="height:650px; width:591px" /></p>
+
+<h3 style="text-align:justify">Грейд B</h3>
+
+<p style="text-align:justify">Рівень хорошого стану. Виглядає як через місяць користування. А саме:</p>
+
+<ul>
+	<li style="text-align:justify">Можуть бути дрібні подряпини або потертості;</li>
+	<li style="text-align:justify">Можливо була заміна окремих компонентів з метою ремонту.</li>
+</ul>
+
+<p style="text-align:center"><img alt="" src="https://i.moyo.ua/img/media/images/%D0%A0%D0%B8%D1%81%D1%83%D0%BD%D0%BE%D0%BA9-%D0%B3%D1%80%D0%B5%D0%B8%CC%86%D0%B4%20%D0%92.jpg" style="height:627px; width:591px" /></p>
+
+<h3 style="text-align:justify">Грейд С</h3>
+
+<p style="text-align:justify">Рівень прийнятного стану. Виглядає як через рік використання пристрою. А саме:</p>
+
+<ul>
+	<li style="text-align:justify">На дисплеї можливі незначні засвіти, глибокі подряпини. На корпусі можуть бути сліди ударів, незначні тріщини до 5 мм;</li>
+	<li style="text-align:justify">Можливо була заміна окремих компонентів з метою ремонту.</li>
+</ul>
+
+<p style="text-align:center"><img alt="" src="https://i.moyo.ua/img/media/images/Screenshot%202025-07-09%20160304-%D0%B3%D1%80%D0%B5%D0%B8%CC%86%D0%B4%20%D0%A1.jpg" style="height:639px; width:591px" /></p>
+
+<h3 style="text-align:justify">Дизайн паковання</h3>
+
+<p style="text-align:justify">100% екологічне паковання зі стильним дизайном, що підкреслює відкритість та прозорість.</p>
+
+<p style="text-align:center"><img alt="" src="https://i.moyo.ua/img/media/images/packaging.jpg" style="height:734px; width:1000px" /></p>
+
+<p style="text-align:center"><img alt="" src="https://img.moyo.ua/img/category_text_images/images/Landing%20iPhone%2015%20Pro_RU.jpg" style="height:643px; width:1000px" /><img alt="" src="https://img.moyo.ua/img/category_text_images/images/Landing%20iPhone%2015%20Pro_RU-0-2.jpg" style="height:967px; width:1000px" /><img alt="" src="https://i.moyo.ua/img/media/images/Landing%20iPhone%2015%20Pro_RU-0-3(1).jpg" style="height:970px; width:1000px" /><img alt="" src="https://i.moyo.ua/img/media/images/ua(2)(1).jpg" style="height:625px; width:1000px" /></p>]]></description>
+                <param name="Тип SIM">microSIM</param>
+                <param name="Рік виходу">2014 (зовн.)</param>
+                <param name="BT профіль">AAC профіль</param>
+            </offer>
+
+            <!-- id=741765, категорія=2844 | Смартфони / Мобільні телефони / Смартфони -->
+            <offer id="741765" available="true">
+                <url>https://nadm-dev.moyo.ua/products/update?id=741765</url>
+                <art_local>1186352</art_local>
+                <ean>001012709400</ean>
+                <supplier_code>ЦОФ00636189</supplier_code>
+                <price>999.00</price>
+                <currencyId>UAH</currencyId>
+                <categoryId>2844</categoryId>
+                <picture>https://raw.githubusercontent.com/testermoyo-source/xml-import-tests/refs/heads/main/test_xml_import.png</picture>
+                <n>Смартфон Xiaomi 17 Ultra 16/512GB White (1186352)</n>
+                <description><![CDATA[<h3 style="text-align:justify">З усіх Xiaomi Ultra - найлегший</h3>
+
+<p style="text-align:justify">У Xiaomi 17 Ultra було перероблено кожну деталь для забезпечення продуманого й зручного тримання в руці.</p>
+
+<p style="text-align:center"><img alt="" src="https://i.moyo.ua/img/media/images/f7ccba248ad1fd1de33cdef8defbf288_result.jpg" style="height:261px; width:1000px" /></p>
+
+<h3 style="text-align:justify">Делікатніше деко камери</h3>
+
+<p style="text-align:justify">Продумане розташування модуля камери для кращого хвату.</p>
+
+<p style="text-align:center"><img alt="" src="https://i.moyo.ua/img/media/images/hd50bbd90aa2dfac77ab877h092d2e58_result.jpg" style="height:351px; width:1000px" /></p>
+
+<h3 style="text-align:justify">Заокруглення корпусу за &laquo;золотою дугою&raquo;</h3>
+
+<p style="text-align:justify">Вишукані пропорції з елегантними вигинами.</p>
+
+<p style="text-align:center"><img alt="" src="https://i.moyo.ua/img/media/images/bg6he5ej85a2c48ecd2fad7a7a7379e5_result.jpg" style="height:351px; width:1000px" /></p>
+
+<h3 style="text-align:justify">Всебічний захист</h3>
+
+<p style="text-align:justify">Виняткова робота з зображеннями та тривала продуктивність, гарантовані надійною конструкцією.</p>
+
+<p style="text-align:center"><img alt="" src="https://i.moyo.ua/img/media/images/72580587920f0de125e0056274e41322_result.jpg" style="height:420px; width:1000px" /></p>
+
+<h3 style="text-align:justify">Light Fusion 1050L</h3>
+
+<p style="text-align:justify">Встановлений у Xiaomi 17 Ultra ультравеликий 1-дюймовий сенсор Light Fusion 1050L завдяки технології LOFIC HDR створює вражаючі нічні зображення.</p>
+
+<p style="text-align:center"><img alt="" src="https://i.moyo.ua/img/media/images/s0d630afb2d50fa8cf8ad6e9b5f773be_result.jpg" style="height:548px; width:1000px" /></p>
+
+<h3 style="text-align:justify">Технологія LOFIC HDR</h3>
+
+<p style="text-align:justify">Нова технологія LOFIC HDR виходить за межі світла та тіні, підвищуючи контроль світлих ділянок для захоплення важливих моментів.</p>
+
+<h3 style="text-align:justify">Механічний оптичний зум 75-100 мм</h3>
+
+<p style="text-align:justify">Нова механічна система оптичного зуму з фокусними відстанями 75-100 мм, що забезпечується трьома групами лінз, гарантує видатну якість зображення без потреби у цифровому кадруванні. Завдяки оптичному зуму до 400 мм, вона забезпечує найкращу в галузі продуктивність телефотокамери.</p>
+
+<div class="ckeditor-html5-video" style="text-align:center">
+<video autoplay="autoplay" loop="loop" muted="muted" src="https://i.moyo.ua/img/media/products/images/light-filter2_75_mec_new.mp4" width="1000">&nbsp;</video>
+</div>
+
+<h3 style="text-align:justify">Виняткова 200-Мп чіткість</h3>
+
+<p style="text-align:justify">У поєднанні із ультравеликим 200-Мп сенсором 1/1,4&rdquo; це піднімає можливості телефотокамери на вражаючий рівень.</p>
+
+<p style="text-align:center"><img alt="" src="https://i.moyo.ua/img/media/images/geabd7eg81d4b87d6d7295a5d7hcd0ee_result.jpg" style="height:579px; width:1000px" /></p>
+
+<h3 style="text-align:justify">Гібридний 1G+6P-об&rsquo;єктив</h3>
+
+<p style="text-align:justify">Оновлена структура об&rsquo;єктива містить новий прецизійний скляний елемент, що значно зменшує відблиски.</p>
+
+<p style="text-align:center"><img alt="" src="https://i.moyo.ua/img/media/images/862aaaaab18bcf8ac271558755d4e1d2_result.jpg" style="height:257px; width:1000px" /></p>
+
+<h3 style="text-align:justify">Кристально чиста оптична прозорість</h3>
+
+<p style="text-align:justify">На кожну лінзу наноситься високоточне багатошарове покриття, що забезпечує виняткову чистоту, пригнічуючи відблиски, помутніння та інші оптичні дефекти.</p>
+
+<p style="text-align:center"><img alt="" src="https://i.moyo.ua/img/media/images/932kk4d15320127e67ad2ba4923jjf04e_result.jpg" style="height:474px; width:1000px" /></p>
+
+<h3 style="text-align:justify">Реалістична оптична якість</h3>
+
+<p style="text-align:justify">Завдяки оптиці Leica APO 200 Мп телефотокамера Leica, 75-100 мм, ефективно пригнічує хроматичні аберації, забезпечуючи чіткіші зображення та більш природне відтворення кольорів.</p>
+
+<div class="ckeditor-html5-video" style="text-align:center">
+<video autoplay="autoplay" loop="loop" muted="muted" src="https://i.moyo.ua/img/media/products/images/light-filter2_three_new.mp4" width="1000">&nbsp;</video>
+</div>
+
+<h3 style="text-align:justify">Розкрийте блиск</h3>
+
+<p style="text-align:justify">14-мм ультраширококутна камера відкриває двері до необмеженого бачення та безмежних пейзажів, знімаючи драматизм та велич кожної сцени.</p>
+
+<h3 style="text-align:justify">Покажіть своє найкраще &laquo;я&raquo;</h3>
+
+<p style="text-align:justify">50 Мп селфі-камера Xiaomi 17 передає автентичну текстуру шкіри із властивою їй насиченістю, завдяки чому кожен портрет виглядає неймовірно природно.</p>
+
+<p style="text-align:center"><img alt="" src="https://i.moyo.ua/img/media/images/a5d363f8e5cf9e97968362d047d974f5_result.jpg" style="height:369px; width:1000px" /></p>
+
+<h3 style="text-align:justify">Дисплейна панель M10, розроблена на замовлення Xiaomi</h3>
+
+<p style="text-align:justify">У дисплейній панелі M10, розробленій на замовлення Xiaomi, використовується новий матеріал червоних субпікселів, який забезпечує чудову світловіддачу, пропонуючи більшу яскравість за меншого споживання енергії.</p>
+
+<p style="text-align:center"><img alt="" src="https://i.moyo.ua/img/media/images/c170935773f52befe2af0ff3acfe51ca_result.jpg" style="height:650px; width:678px" /></p>
+
+<h3 style="text-align:justify">Найвищий рівень продуктивності</h3>
+
+<p style="text-align:justify">Xiaomi 17 Ultra працює на провідній мобільній платформі Snapdragon 8 Elite Gen 5, яка забезпечує виняткову продуктивність, зберігаючи при цьому вражаючу енергоефективність.</p>
+
+<p style="text-align:center"><img alt="" src="https://i.moyo.ua/img/media/images/ba12208a1c35f83227a51f1643c872b9_result.jpg" style="height:605px; width:1000px" /></p>
+
+<h3 style="text-align:justify">Ефективне охолодження</h3>
+
+<p style="text-align:justify">Завдяки використанню у випарній камері біонічної мікроструктури значно покращено теплопровідність, що забезпечує комфортнішу та стабільнішу роботу завдяки чудовій охолоджувальній здатності.</p>
+
+<p style="text-align:center"><img alt="" src="https://i.moyo.ua/img/media/images/e137cf0e50cc60af56561abc7a82a7e3_result.jpg" style="height:362px; width:1000px" /></p>
+
+<h3 style="text-align:justify">Батарея Xiaomi Surge</h3>
+
+<p style="text-align:justify">Xiaomi 17 Ultra має велику батарею Xiaomi Surge ємністю 6000 мА/год, що забезпечує надзвичайну витривалість, зберігаючи при цьому вражаюче легку конструкцію.</p>
+
+<p style="text-align:center"><img alt="" src="https://i.moyo.ua/img/media/images/kkgol23c7cccde6ksdkungno3%2C1d576_result.jpg" style="height:650px; width:950px" /></p>
+
+<h3 style="text-align:justify">Гіперзарядка 90 Вт та бездротова гіперзарядка 50 Вт</h3>
+
+<p style="text-align:justify">Xiaomi 17 Ultra виводить на новий рівень процес заряджання, підтримуючи стандарт PPS потужністю 90 Вт та дротову реверсивну зарядку потужністю 22,5 Вт, що дає можливість швидко заряджати інші сумісні пристрої.</p>
+
+<p style="text-align:center"><img alt="" src="https://i.moyo.ua/img/media/images/%2B_result(1).jpg" style="height:547px; width:1000px" /></p>
+
+<h3 style="text-align:justify">Швидкий та плавний зв&rsquo;язок</h3>
+
+<p style="text-align:justify">Завдяки надвеликій антенній системі та тонко налаштованому чипсету Xiaomi 17 Ultra забезпечує безперешкодне підключення до мережі через мобільний зв&rsquo;язок, Wi-Fi, Bluetooth та GPS, пропонуючи швидку й надійну роботу мережі за різних ситуацій.</p>
+
+<p style="text-align:center"><img alt="" src="https://i.moyo.ua/img/media/images/f41f7dd75f9e02b26aceb27ae9f4f7ac_result.jpg" style="height:499px; width:1000px" /></p>
+
+<h3 style="text-align:justify">Імерсивний звук</h3>
+
+<p style="text-align:justify">Два вдосконалених стереодинаміки забезпечують природний, чистий та збалансований звук.</p>
+
+<p style="text-align:center"><img alt="" src="https://i.moyo.ua/img/media/images/4e1c0901fc349fa10cacac86aa5f9075_result.jpg" style="height:214px; width:1000px" /></p>]]></description>
+                <param name="Тип SIM">mini SIM (зовн.)</param>
+                <param name="Стандарт Wi-Fi">Wi-Fi 6</param>
+                <param name="BT профіль">aptX профіль</param>
+            </offer>
+
+            <!-- id=750318, категорія=2844 | Смартфони / Мобільні телефони / Смартфони -->
+            <offer id="750318" available="true">
+                <url>https://nadm-dev.moyo.ua/products/update?id=750318</url>
+                <art_local>PBAB0045RO</art_local>
+                <supplier_code>ЦОФ00646871</supplier_code>
+                <price>999.00</price>
+                <currencyId>UAH</currencyId>
+                <categoryId>2844</categoryId>
+                <picture>https://raw.githubusercontent.com/testermoyo-source/xml-import-tests/refs/heads/main/test_xml_import.png</picture>
+                <n>Смартфон Motorola Signature 16/512Gb Carbon (PBAB0045RO)</n>
+                <description><![CDATA[<h3 style="text-align:justify">Motorola Signature</h3>
+
+<p style="text-align:justify">Нова серія Motorola Signature переосмислює поняття вишуканості завдяки філігранному поєднанню технологій і дизайну. Завдяки камерам світового класу, ексклюзивному доступу до персоналізованих преміальних послуг та іншим перевагам, цей смартфон є втіленням точності й елегантності, що відповідає філософії Motorola.</p>
+
+<p style="text-align:center"><img alt="" src="https://i.moyo.ua/img/media/images/motorola_signature_pdp_features_card_01_d_sij2m0t4_result.jpg" style="height:556px; width:1000px" /></p>
+
+<h3 style="text-align:justify">Революційний дизайн</h3>
+
+<p style="text-align:justify">Усі деталі продумано до дрібниць, кожен вигин і м&rsquo;який контурний край &mdash; гармонійне поєднання комфорту й елегантності. Оздоблення з імітацією твілу у вишуканому золотисто-зеленому кольорі PANTONE Martini Olive дарує неповторні тактильні відчуття та спокійну впевненість у сучасній розкоші.</p>
+
+<h3 style="text-align:justify">Найбільший датчик на 50 Мп</h3>
+
+<p style="text-align:justify">Датчик Sony LYTIA 828 нового покоління з роздільною здатністю 50 Мп і технологією Dolby Vision, а також moto ai забезпечать чіткість, колір і контроль на кожному знімку.</p>
+
+<h3 style="text-align:justify">Знімайте все, що бачите</h3>
+
+<p style="text-align:justify">Від ширококутної зйомки &laquo;від краю до краю&raquo; до зйомки великим планом &mdash; об&rsquo;єктив 50 Мп фіксує кожну деталь із точністю moto ai.</p>
+
+<h3 style="text-align:justify">Виняткова роздільна здатність навіть на відстані</h3>
+
+<p style="text-align:justify">Перископічний телеоб&rsquo;єктив Sony LYTIA 600 із роздільною здатністю 50 Мп дає змогу бачити на далекі відстані. А moto ai надає 3-кратний оптичний зум і 100-кратний суперзум у режимі профі.</p>
+
+<p style="text-align:center"><img alt="" src="https://i.moyo.ua/img/media/images/motorola_signature_pdp_camera_hardware_d_yccuu6j5_result.jpg" style="height:439px; width:1000px" /></p>
+
+<h3 style="text-align:justify">Кінематографічні відео, готові до публікацій</h3>
+
+<p style="text-align:justify">Датчик Sony LYTIA 828 на 50 Мп забезпечує зйомку з роздільною здатністю 8K з ефектами Dolby Vision &nbsp;для неперевершених деталей, реалістичних кольорів і свободи редагування, гідних великого екрана.</p>
+
+<h3 style="text-align:justify">Безмежне масштабування</h3>
+
+<p style="text-align:justify">Сенсор Sony LYTIA 600 з перископічним телеоб&rsquo;єктивом на 50 Мп дає змогу бачити на далекі відстані з бездоганною деталізацією. А 3-кратний оптичний зум і 100-кратний суперзум у режимі профі забезпечують ідеальне фокусування на віддалених обʼєктах.</p>
+
+<p style="text-align:center"><img alt="" src="https://i.moyo.ua/img/media/images/fd0b7ut6tdbcmfsnvr3fe14qjcsem0937861_result.jpg" style="height:512px; width:1000px" /></p>
+
+<h3 style="text-align:justify">На 36% покращена продуктивність ЦП</h3>
+
+<p style="text-align:justify">Архітектура ЦП нового покоління забезпечує частоту до 3,8 ГГц, плавнішу багатозадачність й оптимізоване регулювання температури для легкого й миттєвого виконання завдань.</p>
+
+<h3 style="text-align:justify">На 11% покращена продуктивність графічного процесора</h3>
+
+<p style="text-align:justify">Оновлений графічний процесор забезпечує плавний рух, природне відтворення деталей та яскраві кольори. Насолоджуйтесь стабільною швидкістю роботи з високою частотою кадрів, що робить будь-який епізод реалістичним.</p>
+
+<h3 style="text-align:justify">На 46% покращена продуктивність ШІ</h3>
+
+<p style="text-align:justify">Насолоджуйтесь мультимодальним інтерфейсом Gen AI, що розуміє голос, текст і зображення. Qualcomm AI Engine забезпечує швидшу роботу ШІ для легкої та інтуїтивно зрозумілої взаємодії.</p>
+
+<p style="text-align:center"><img alt="" src="https://i.moyo.ua/img/media/images/motorola_signature_pdp_processor_d_fcw28vjs_result.jpg" style="height:515px; width:1000px" /></p>
+
+<h3 style="text-align:justify">Перший смартфон із системою охолодження з рідким металом і мідною сіткою</h3>
+
+<p style="text-align:justify">Snapdragon 8 Gen 5 забезпечує потужну стабільну роботу завдяки ArcticMesh Cooling System, новій мідній сітці, що полегшує відведення тепла від процесора. Її дихаюча ткана конструкція в поєднанні з системою охолодження Motorola з рідким металом підтримує температуру системи на рівні до 4,4&deg;C &mdash; нижче, ніж будь-коли. А завдяки паровій камері, яка на 20% більша, ви отримуєте стабільну швидкість і комфортне охолодження, що відповідають вимогам мобільних пристроїв нового покоління.</p>
+
+<p style="text-align:center"><img alt="" src="https://i.moyo.ua/img/media/images/motorola_signature_pdp_processor_cooling_d_h6qyhbwn_result.jpg" style="height:515px; width:1000px" /></p>
+
+<h3 style="text-align:justify">6.8&quot; AMOLED</h3>
+
+<p style="text-align:justify">Дисплей AMOLED діагоналлю 6,8 дюйма поєднав у собі роздільну здатність Super HD і частоту оновлення 165 Гц, щоб забезпечити чіткішу, плавнішу й реалістичнішу картинку, ніж будь-коли.</p>
+
+<h3 style="text-align:justify">Ще яскравіше, ще ефектніше</h3>
+
+<p style="text-align:justify">Завдяки піковій яскравості 6200 ніт кожен кадр неймовірно насичений і розкриває деталі так, як не під силу іншим дисплеям. І все це з реалістичними кольорами й відтінками шкіри відповідно до Pantone.</p>
+
+<h3 style="text-align:justify">Приголомшливі візуальні ефекти Dolby Vision</h3>
+
+<p style="text-align:justify">Насолоджуйтесь улюбленими історіями з приголомшливою глибиною завдяки Dolby Vision, що забезпечує насиченішу контрастність, реалістичні кольори та кінематографічний реалізм, що занурюють вас у кожний епізод.</p>
+
+<h3 style="text-align:justify">Золотий стандарт у сфері звукових технологій</h3>
+
+<p style="text-align:justify">Розроблені з преміальним налаштуванням еквалайзера Bose, сертифіковані стереодинаміки дарують неперевершену якість звуку, розкриваючи всю глибину й нюанси звучання, тим самим покращуючи все, що ви слухаєте. Dolby Atmos відкриває новий вимір слухання завдяки повнішому, багатовимірному звучанню та приголомшливій деталізації, що занурює вас в атмосферу живого об&rsquo;ємного звуку.</p>
+
+<h3 style="text-align:justify">Створений для тривалої роботи</h3>
+
+<p style="text-align:justify">Працюйте без підзарядки до 52 годин завдяки батареї ємністю 5200 мА/год, що ховається у надзвичайно тонкому корпусі та забезпечує роботу весь день.</p>
+
+<h3 style="text-align:justify">Працюйте без зупину</h3>
+
+<p style="text-align:justify">Отримайте 50% заряду батареї всього за 15 хвилин заряджання за допомогою TurboPower потужністю 90 Вт або підзаряжайтеся бездротовим способом із TurboPower потужністю до 50 Вт.</p>
+
+<p style="text-align:center"><img alt="" src="https://i.moyo.ua/img/media/images/motorola_signature_pdp_battery_d_ntl6eo7l_result.jpg" style="height:566px; width:1000px" /></p>]]></description>
+                <param name="Тип SIM">miniSIM</param>
+                <param name="Рік виходу">2016 (зовн.)</param>
+                <param name="Стандарт Wi-Fi">802.11 a/b/g/n/ac/ax/be (зовн.)</param>
+            </offer>
+
+            <!-- id=750600, категорія=2844 | Смартфони / Мобільні телефони / Смартфони -->
+            <offer id="750600" available="true">
+                <url>https://nadm-dev.moyo.ua/products/update?id=750600</url>
+                <art_local>2AMYNH3</art_local>
+                <supplier_code>ЦОФ00647210</supplier_code>
+                <price>999.00</price>
+                <currencyId>UAH</currencyId>
+                <categoryId>2844</categoryId>
+                <picture>https://raw.githubusercontent.com/testermoyo-source/xml-import-tests/refs/heads/main/test_xml_import.png</picture>
+                <n>Смартфон Refurbished iPhone 16 Pro 256GB Black Titanium (Відмінний стан, A)</n>
+                <description><![CDATA[<p style="text-align:justify">Порядок дій, у разі виникнення гарантійного випадку упродовж гарантійного терміну (12 місяців):</p>
+
+<ul>
+	<li style="text-align:justify">Зверніться до будь-якого магазину MOYO, аби товар передали на діагностику;</li>
+	<li style="text-align:justify">Упродовж 48&nbsp;годин після отримання товару Сервісним Центром буде видано: заключення про офіційне обслуговування чи акт заміни товару або відмова у разі порушення вимог гарантійного обслуговування;</li>
+	<li style="text-align:justify">У разі нескладного ремонту - він буде проведений впродовж цих 48&nbsp;годин;</li>
+	<li style="text-align:justify">Якщо впродовж гарантійного терміну (12 місяців) ємність акумулятора знизиться нижче 80% - його заміна буде проведена безкоштовно.</li>
+</ul>
+
+<p style="text-align:justify">Refurbished Breezy &ndash; це вживані смартфони, які пройшли ремонт, тестування та відновлення у сертифікованому сервісному центрі Breezy до стану, близького до нового:</p>
+
+<ul>
+	<li style="text-align:justify">100% функціональність за 55 тестами;</li>
+	<li style="text-align:justify">100% оригінальні пристрої;</li>
+	<li style="text-align:justify">1 рік гарантії.</li>
+</ul>
+
+<p style="text-align:justify">Компанія Breezy, яка відновлює пристрої - №1 провайдер послуги Trade-in в Україні. Є частиною міжнародного холдингу ASBIS, дистриб&rsquo;ютора IT продуктів у понад 75 країн.</p>
+
+<p style="text-align:justify">Відновлені iPhone Breezy можуть мати різний зовнішній стан &ndash; від майже нового до незначних слідів експлуатації на корпусі. Такі відмінності регулюються різними грейдами. Грейд відображено у назві моделі як (REF, A+), (REF, A), (REF, B) або (REF, C).</p>
+
+<p style="text-align:center"><img alt="" src="https://i.moyo.ua/img/media/images/multiple.jpg" style="height:653px; width:1000px" /></p>
+
+<h3 style="text-align:justify">Грейд А+</h3>
+
+<p style="text-align:justify">Це преміум рівень. Ідеальний стан пристроїв цього грейду практично як в нової техніки. А саме:</p>
+
+<ul>
+	<li style="text-align:justify">Можуть бути одиничні мікроподряпини;</li>
+	<li style="text-align:justify">Можливо була заміна окремих компонентів з метою ремонту.</li>
+</ul>
+
+<p style="text-align:center"><img alt="" src="https://i.moyo.ua/img/media/images/a%2B.jpg" style="height:650px; width:591px" /></p>
+
+<h3 style="text-align:justify">Грейд А</h3>
+
+<p style="text-align:justify">Відмінний рівень. Виглядає як через тиждень обережного використання. А саме:</p>
+
+<ul>
+	<li style="text-align:justify">Можуть бути мікроподряпини чи потертості, помітні лише під час ретельного огляду;</li>
+	<li style="text-align:justify">Можливо була заміна окремих компонентів з метою ремонту.</li>
+</ul>
+
+<p style="text-align:center"><img alt="" src="https://i.moyo.ua/img/media/images/a(6).jpg" style="height:650px; width:591px" /></p>
+
+<h3 style="text-align:justify">Грейд B</h3>
+
+<p style="text-align:justify">Рівень хорошого стану. Виглядає як через місяць користування. А саме:</p>
+
+<ul>
+	<li style="text-align:justify">Можуть бути дрібні подряпини або потертості;</li>
+	<li style="text-align:justify">Можливо була заміна окремих компонентів з метою ремонту.</li>
+</ul>
+
+<p style="text-align:center"><img alt="" src="https://i.moyo.ua/img/media/images/%D0%A0%D0%B8%D1%81%D1%83%D0%BD%D0%BE%D0%BA9-%D0%B3%D1%80%D0%B5%D0%B8%CC%86%D0%B4%20%D0%92.jpg" style="height:627px; width:591px" /></p>
+
+<h3 style="text-align:justify">Грейд С</h3>
+
+<p style="text-align:justify">Рівень прийнятного стану. Виглядає як через рік використання пристрою. А саме:</p>
+
+<ul>
+	<li style="text-align:justify">На дисплеї можливі незначні засвіти, глибокі подряпини. На корпусі можуть бути сліди ударів, незначні тріщини до 5 мм;</li>
+	<li style="text-align:justify">Можливо була заміна окремих компонентів з метою ремонту.</li>
+</ul>
+
+<p style="text-align:center"><img alt="" src="https://i.moyo.ua/img/media/images/Screenshot%202025-07-09%20160304-%D0%B3%D1%80%D0%B5%D0%B8%CC%86%D0%B4%20%D0%A1.jpg" style="height:639px; width:591px" /></p>
+
+<h3 style="text-align:justify">Дизайн паковання</h3>
+
+<p style="text-align:justify">100% екологічне паковання зі стильним дизайном, що підкреслює відкритість та прозорість.</p>
+
+<p style="text-align:center"><img alt="" src="https://i.moyo.ua/img/media/images/Landing-iPhone-16-Pro_UA_1_01.jpg" style="height:940px; width:1000px" /><img alt="" src="https://i.moyo.ua/img/media/images/Landing-iPhone-16-Pro_UA_1_02.jpg" style="height:546px; width:1000px" /><img alt="" src="https://i.moyo.ua/img/media/images/Landing-iPhone-16-Pro_UA_1_03.jpg" style="height:800px; width:1000px" /><img alt="" src="https://i.moyo.ua/img/media/images/Landing-iPhone-16-Pro_UA_1_04.jpg" style="height:501px; width:1000px" /><img alt="" src="https://i.moyo.ua/img/media/images/Landing-iPhone-16-Pro_UA_1_05.jpg" style="height:594px; width:1000px" /><img alt="" src="https://i.moyo.ua/img/media/images/Landing-iPhone-16-Pro_UA_1_06.jpg" style="height:302px; width:1000px" /><img alt="" src="https://i.moyo.ua/img/media/images/Landing-iPhone-16-Pro_UA_1_07.jpg" style="height:885px; width:1000px" /><img alt="" src="https://i.moyo.ua/img/media/images/Landing-iPhone-16-Pro_UA_1_08.jpg" style="height:303px; width:1000px" /><img alt="" src="https://i.moyo.ua/img/media/images/Landing-iPhone-16-Pro_UA_1_09.jpg" style="height:714px; width:1000px" /><img alt="" src="https://i.moyo.ua/img/media/images/Landing-iPhone-16-Pro_UA_1_10.jpg" style="height:887px; width:1000px" /><img alt="" src="https://i.moyo.ua/img/media/images/Landing-iPhone-16-Pro_UA_1_11.jpg" style="height:244px; width:1000px" /><img alt="" src="https://i.moyo.ua/img/media/images/Landing-iPhone-16-Pro_UA_1_12.jpg" style="height:883px; width:1000px" /></p>]]></description>
+                <param name="Тип SIM">nanoSIM</param>
+                <param name="Стандарт Wi-Fi">802.11 b/g/n (зовн.)</param>
+                <param name="BT профіль">aptX HD (зовн.)</param>
+            </offer>
+
+            <!-- id=750791, категорія=3015 | ТВ, Фото, Відео, Аудіо / ТВ, проектори, медіаплеєри / Телевізори -->
+            <offer id="750791" available="true">
+                <url>https://nadm-dev.moyo.ua/products/update?id=750791</url>
+                <art_local>QE43Q7FAAUXUA</art_local>
+                <ean>2210000046191</ean>
+                <price>999.00</price>
+                <currencyId>UAH</currencyId>
+                <categoryId>3015</categoryId>
+                <picture>https://raw.githubusercontent.com/testermoyo-source/xml-import-tests/refs/heads/main/test_xml_import.png</picture>
+                <n>Телевізор Samsung QLED 43Q7F (QE43Q7FAAUXUA)</n>
+                <param name="Смарт ТВ">є</param>
+                <param name="Роздільна здатність">4K UHD 3840x2160 (зовн.)</param>
+                <param name="Кількість HDMI">1 шт</param>
+            </offer>
+
+            <!-- id=735012, категорія=3015 | ТВ, Фото, Відео, Аудіо / ТВ, проектори, медіаплеєри / Телевізори -->
+            <offer id="735012" available="true">
+                <url>https://nadm-dev.moyo.ua/products/update?id=735012</url>
+                <art_local>32LQ630B6LA</art_local>
+                <ean>2210000044661</ean>
+                <price>999.00</price>
+                <currencyId>UAH</currencyId>
+                <categoryId>3015</categoryId>
+                <picture>https://raw.githubusercontent.com/testermoyo-source/xml-import-tests/refs/heads/main/test_xml_import.png</picture>
+                <n>Телевізор LG 32LQ630B6LA</n>
+                <description><![CDATA[<p>Подряпини на екрані. Пошкоджена упаковка.</p>]]></description>
+                <param name="Смарт ТВ">немає</param>
+                <param name="Роздільна здатність">5120x2160 (зовн.)</param>
+                <param name="Кількість HDMI">2 шт</param>
+            </offer>
+
+            <!-- id=509755, категорія=3015 | ТВ, Фото, Відео, Аудіо / ТВ, проектори, медіаплеєри / Телевізори -->
+            <offer id="509755" available="true">
+                <url>https://nadm-dev.moyo.ua/products/update?id=509755</url>
+                <art_local>791101</art_local>
+                <ean>6971408154845</ean>
+                <supplier_code>ЦОФ00404814</supplier_code>
+                <price>999.00</price>
+                <currencyId>UAH</currencyId>
+                <categoryId>3015</categoryId>
+                <picture>https://raw.githubusercontent.com/testermoyo-source/xml-import-tests/refs/heads/main/test_xml_import.png</picture>
+                <n>Телевізор Xiaomi Mi TV P1 32 (791101)</n>
+                <param name="Смарт ТВ">є</param>
+                <param name="LAN порт">є</param>
+                <param name="Кількість HDMI">3 шт</param>
+            </offer>
+
+            <!-- id=691404, категорія=3015 | ТВ, Фото, Відео, Аудіо / ТВ, проектори, медіаплеєри / Телевізори -->
+            <offer id="691404" available="true">
+                <url>https://nadm-dev.moyo.ua/products/update?id=691404</url>
+                <art_local>75PUS7000/12</art_local>
+                <ean>8718863046203</ean>
+                <supplier_code>ЦОФ00586200</supplier_code>
+                <price>999.00</price>
+                <currencyId>UAH</currencyId>
+                <categoryId>3015</categoryId>
+                <picture>https://raw.githubusercontent.com/testermoyo-source/xml-import-tests/refs/heads/main/test_xml_import.png</picture>
+                <n>Телевізор Philips 75PUS7000/12</n>
+                <description><![CDATA[<h3 style="text-align:justify">Чіткий, розумний та ідеального розміру</h3>
+
+<p style="text-align:justify">Спостерігайте за точною роботою 8 млн пікселів. Насолоджуйтесь 3D-звуком, як у кінотеатрі, з Dolby Atmos. Безмежний вибір функцій Smart TV і плавний ігровий процес - усе це європейська якість, яка відповідає вашим потребам.</p>
+
+<p style="text-align:center"><img alt="" src="https://i.moyo.ua/img/media/images/Desktop-P1-Main(2).jpg" style="height:410px; width:1000px" /><img alt="" src="https://i.moyo.ua/img/media/images/Desktop-P3-1-4K%20UHD.jpg" style="height:410px; width:1000px" /><img alt="" src="https://i.moyo.ua/img/media/images/Desktop-P3-2-Pixel%20Precise%20UHD.jpg" style="height:410px; width:1000px" /><img alt="" src="https://i.moyo.ua/img/media/images/Desktop-P3-3-HDR10%2B.jpg" style="height:410px; width:1000px" /><img alt="" src="https://i.moyo.ua/img/media/images/Desktop-P4-European%20Design.jpg" style="height:410px; width:1000px" /><img alt="" src="https://i.moyo.ua/img/media/images/Desktop-P5-1-Dolby%20Atmos.jpg" style="height:410px; width:1000px" /><img alt="" src="https://i.moyo.ua/img/media/images/Desktop-P5-2-DTSX.jpg" style="height:410px; width:1000px" /><img alt="" src="https://i.moyo.ua/img/media/images/Desktop-P5-3-Intellisound.jpg" style="height:410px; width:1000px" /><img alt="" src="https://i.moyo.ua/img/media/images/Desktop-P6-1-Titan(2).jpg" style="height:410px; width:1000px" /><img alt="" src="https://i.moyo.ua/img/media/images/Desktop-P6-2-Matter(2).jpg" style="height:410px; width:1000px" /><img alt="" src="https://i.moyo.ua/img/media/images/Desktop-P6-3-Voice%20Assistant(2).jpg" style="height:410px; width:1000px" /></p>]]></description>
+                <param name="Смарт ТВ">немає</param>
+                <param name="Роздільна здатність">8K 7680x4320 (зовн.)</param>
+                <param name="LAN порт">немає</param>
+            </offer>
+
+            <!-- id=723541, категорія=3015 | ТВ, Фото, Відео, Аудіо / ТВ, проектори, медіаплеєри / Телевізори -->
+            <offer id="723541" available="true">
+                <url>https://nadm-dev.moyo.ua/products/update?id=723541</url>
+                <art_local>65T69C</art_local>
+                <supplier_code>ЦОФ00618905</supplier_code>
+                <price>999.00</price>
+                <currencyId>UAH</currencyId>
+                <categoryId>3015</categoryId>
+                <picture>https://raw.githubusercontent.com/testermoyo-source/xml-import-tests/refs/heads/main/test_xml_import.png</picture>
+                <n>Телевізор TCL QLED 65T69C</n>
+                <description><![CDATA[<p style="text-align:justify">Телевізор TCL 65T69C &mdash; сучасний 65&Prime; QLED Smart TV з роздільною здатністю 4K Ultra HD (3840&times;2160), що поєднує яскраве та детальне зображення з максимальною передачею кольору завдяки технології квантових точок.</p>]]></description>
+                <param name="Смарт ТВ">є</param>
+                <param name="LAN порт">є</param>
+                <param name="Кількість HDMI">5 (зовн.)</param>
+            </offer>
+
+            <!-- id=679926, категорія=7220 | Одяг / Футболки і поло / Футболки -->
+            <offer id="679926" available="true">
+                <url>https://nadm-dev.moyo.ua/products/update?id=679926</url>
+                <art_local>4099686741440</art_local>
+                <ean>4099686741440</ean>
+                <supplier_code>ЦОФ00574701</supplier_code>
+                <price>999.00</price>
+                <currencyId>UAH</currencyId>
+                <categoryId>7220</categoryId>
+                <picture>https://raw.githubusercontent.com/testermoyo-source/xml-import-tests/refs/heads/main/test_xml_import.png</picture>
+                <n>Футболка жіноча Puma Her Tee 677883-87 S бежева</n>
+                <param name="Колір виробу">Бежевий (зовн.)</param>
+                <param name="Фасон">Вільний</param>
+                <param name="Призначення">Casual</param>
+            </offer>
+
+            <!-- id=679888, категорія=7220 | Одяг / Футболки і поло / Футболки -->
+            <offer id="679888" available="true">
+                <url>https://nadm-dev.moyo.ua/products/update?id=679888</url>
+                <art_local>197967287039</art_local>
+                <ean>197967287039</ean>
+                <supplier_code>ЦОФ00574660</supplier_code>
+                <price>999.00</price>
+                <currencyId>UAH</currencyId>
+                <categoryId>7220</categoryId>
+                <picture>https://raw.githubusercontent.com/testermoyo-source/xml-import-tests/refs/heads/main/test_xml_import.png</picture>
+                <n>Футболка жіноча New Balance Wt43556 WT43556-WT XL-42 біла</n>
+                <param name="Колір виробу">Білий колір</param>
+                <param name="Фасон">Регуляр</param>
+                <param name="Призначення">Sport</param>
+            </offer>
+
+            <!-- id=749121, категорія=7220 | Одяг / Футболки і поло / Футболки -->
+            <offer id="749121" available="true">
+                <url>https://nadm-dev.moyo.ua/products/update?id=749121</url>
+                <art_local>4063366241124</art_local>
+                <ean>4063366241124</ean>
+                <supplier_code>ЦОФ00645729</supplier_code>
+                <price>999.00</price>
+                <currencyId>UAH</currencyId>
+                <categoryId>7220</categoryId>
+                <picture>https://raw.githubusercontent.com/testermoyo-source/xml-import-tests/refs/heads/main/test_xml_import.png</picture>
+                <n>Футболка чоловіча Camel Active T-shirts 1/2 sleeves 409700-7T54-42 L блактина</n>
+                <param name="Колір виробу">Бірюзовий (зовн.)</param>
+                <param name="Фасон">Slim</param>
+                <param name="Тип вирізу">Кругла горловина</param>
+            </offer>
+
+            <!-- id=732463, категорія=7220 | Одяг / Футболки і поло / Футболки -->
+            <offer id="732463" available="true">
+                <url>https://nadm-dev.moyo.ua/products/update?id=732463</url>
+                <art_local>2000000032511</art_local>
+                <supplier_code>ЦОФ00627399</supplier_code>
+                <price>999.00</price>
+                <currencyId>UAH</currencyId>
+                <categoryId>7220</categoryId>
+                <picture>https://raw.githubusercontent.com/testermoyo-source/xml-import-tests/refs/heads/main/test_xml_import.png</picture>
+                <n>Футболка жіноча бавовняна Stedman Classic-T ST2000W-SPK M рожева</n>
+                <description><![CDATA[<p style="text-align:justify">Футболка Stedman &mdash; це універсальна базова модель, яка поєднує класичний дизайн, комфорт і високу якість матеріалів. Завдяки простому крою та великій палітрі кольорів вона чудово підходить як для повсякденного носіння, так і для нанесення принтів або корпоративного брендування.</p>
+
+<h3 style="text-align:justify">Особливості:</h3>
+
+<ul>
+	<li style="text-align:justify">Класичний універсальний дизайн;</li>
+	<li style="text-align:justify">М&rsquo;яка та міцна бавовна ring-spun;</li>
+	<li style="text-align:justify">Комфортний крій Regular Fit;</li>
+	<li style="text-align:justify">Без бокових швів для більшої зручності;</li>
+	<li style="text-align:justify">Ребристий круглий комір;</li>
+	<li style="text-align:justify">Стрічка від плеча до плеча для додаткової міцності;</li>
+	<li style="text-align:justify">Відривна етикетка, що не подразнює шкіру.</li>
+</ul>]]></description>
+                <param name="Колір виробу">Бордовий (зовн.)</param>
+                <param name="Тип вирізу">Круглий виріз</param>
+                <param name="Призначення">Sport</param>
+            </offer>
+
+            <!-- id=659377, категорія=7220 | Одяг / Футболки і поло / Футболки -->
+            <offer id="659377" available="true">
+                <url>https://nadm-dev.moyo.ua/products/update?id=659377</url>
+                <art_local>4925303_Kalenji</art_local>
+                <ean>3608391571252</ean>
+                <supplier_code>ЦОФ00554823</supplier_code>
+                <price>999.00</price>
+                <currencyId>UAH</currencyId>
+                <categoryId>7220</categoryId>
+                <picture>https://raw.githubusercontent.com/testermoyo-source/xml-import-tests/refs/heads/main/test_xml_import.png</picture>
+                <n>Футболка  жіноча для бігу Kalenji 100 8817407 2XS чорна</n>
+                <description><![CDATA[<p style="text-align:justify">Ця легка, повітропроникна футболка &ndash; чудова річ для бігу, яка стане незамінним елементом гардероба! З круглою горловиною та вільним кроєм. Це покращена версія, яка зберегла найкращі елементи того, що зробило її комфортною для спорту.</p>
+
+<h3 style="text-align:justify">Особливості:</h3>
+
+<ul>
+	<li style="text-align:justify">Повітропроникна тканина.</li>
+	<li style="text-align:justify">Тканина містить еластан для більшої свободи рухів.</li>
+</ul>
+
+<h3 style="text-align:justify">Рекомендації з догляду:</h3>
+
+<ul>
+	<li style="text-align:justify">Перед пранням у пральній машинці вивернути виріб навиворіт.</li>
+	<li style="text-align:justify">Встановити делікатний режим і невисоку температуру.</li>
+	<li style="text-align:justify">Використовувати м&#39;які мийні засоби.</li>
+	<li style="text-align:justify">Поставити малі оберти віджиму або зовсім відмовитися від нього.</li>
+	<li style="text-align:justify">Більш детальна інформація, щодо догляду вказана на етикетці кожного виробу.</li>
+</ul>]]></description>
+                <param name="Колір виробу">Блакитний (зовн.)</param>
+                <param name="Фасон">Вільний (зовн.)</param>
+                <param name="Тип вирізу">V-виріз</param>
+            </offer>
+
+            <!-- id=722787, категорія=7427 | Взуття, одяг та аксесуари / Взуття / Бутси -->
+            <offer id="722787" available="true">
+                <url>https://nadm-dev.moyo.ua/products/update?id=722787</url>
+                <art_local>198726461899</art_local>
+                <ean>198726461899</ean>
+                <supplier_code>ЦОФ00618173</supplier_code>
+                <price>999.00</price>
+                <currencyId>UAH</currencyId>
+                <categoryId>7427</categoryId>
+                <picture>https://raw.githubusercontent.com/testermoyo-source/xml-import-tests/refs/heads/main/test_xml_import.png</picture>
+                <n>Сороконіжки підліткові Nike Jr Tiempo Maestro Academy Tf IB5028-146 33 (1,5Y US) білі</n>
+                <description><![CDATA[<p style="text-align:justify">Сороконіжки Nike Tiempo Maestro Academy розроблені для контролю кожного руху.</p>
+
+<h3 style="text-align:justify">Особливості:</h3>
+
+<ul>
+	<li style="text-align:justify">FlyTouch: м&#39;яка синтетична шкіра, яка ідеально облягає ногу в будь-яких умовах, забезпечуючи комфорт, а також допомагає забезпечити стабільний дотик до м&#39;яча у вологих або сухих умовах;</li>
+	<li style="text-align:justify">Гумова підошва забезпечує зчеплення з покриттям;</li>
+	<li style="text-align:justify">Амортизуюча устілка.</li>
+</ul>]]></description>
+                <param name="Вікова група">Дорослі</param>
+                <param name="Матеріал">Синтетика</param>
+                <param name="Тип застібки">Без застібання</param>
+            </offer>
+
+            <!-- id=709735, категорія=7427 | Взуття, одяг та аксесуари / Взуття / Бутси -->
+            <offer id="709735" available="true">
+                <url>https://nadm-dev.moyo.ua/products/update?id=709735</url>
+                <art_local>4068812668494</art_local>
+                <ean>4068812668494</ean>
+                <supplier_code>ЦОФ00613238</supplier_code>
+                <price>999.00</price>
+                <currencyId>UAH</currencyId>
+                <categoryId>7427</categoryId>
+                <picture>https://raw.githubusercontent.com/testermoyo-source/xml-import-tests/refs/heads/main/test_xml_import.png</picture>
+                <n>Сороконіжки дитячі Adidas F50 Club Tf J JS1492 35 (2,5 UK) жовті</n>
+                <description><![CDATA[<p style="text-align:justify">Дитячі сороконіжки Adidas F50 Club TF J &mdash; стильне та надійне взуття з підошвою для жорстких синтетичних покриттів, що забезпечує комфорт і зчеплення під час активної гри.</p>
+
+<h3 style="text-align:justify">Особливості:</h3>
+
+<ul>
+	<li style="text-align:justify">Легкі та зручні &mdash; комфорт під час руху та тривалих ігор;</li>
+	<li style="text-align:justify">Міцні матеріали зверху &mdash; витримують активну дитячу гру;</li>
+	<li style="text-align:justify">Зручна посадка для дитячої ноги &mdash; підтримка та стабільність;</li>
+	<li style="text-align:justify">Універсальний дизайн &mdash; підходить до різного спортивного одягу.</li>
+</ul>]]></description>
+                <param name="Вікова група">Дитячий</param>
+                <param name="Матеріал">Натуральна шкіра</param>
+                <param name="Тип застібки">Велкро</param>
+            </offer>
+
+            <!-- id=750082, категорія=7427 | Взуття, одяг та аксесуари / Взуття / Бутси -->
+            <offer id="750082" available="true">
+                <url>https://nadm-dev.moyo.ua/products/update?id=750082</url>
+                <art_local>4069161224911</art_local>
+                <ean>4069161224911</ean>
+                <supplier_code>ЦОФ00646700</supplier_code>
+                <price>999.00</price>
+                <currencyId>UAH</currencyId>
+                <categoryId>7427</categoryId>
+                <picture>https://raw.githubusercontent.com/testermoyo-source/xml-import-tests/refs/heads/main/test_xml_import.png</picture>
+                <n>Бутси футбольні PUMA King 20 Play Fg/Ag JR 108735-01 38,5 (5,5 UK) білі</n>
+                <param name="Вікова група">Дорослі</param>
+                <param name="Матеріал">ПУ матеріал</param>
+                <param name="Вид спорту">Футбол</param>
+            </offer>
+
+            <!-- id=722762, категорія=7427 | Взуття, одяг та аксесуари / Взуття / Бутси -->
+            <offer id="722762" available="true">
+                <url>https://nadm-dev.moyo.ua/products/update?id=722762</url>
+                <art_local>198726570096</art_local>
+                <ean>198726570096</ean>
+                <supplier_code>ЦОФ00618148</supplier_code>
+                <price>999.00</price>
+                <currencyId>UAH</currencyId>
+                <categoryId>7427</categoryId>
+                <picture>https://raw.githubusercontent.com/testermoyo-source/xml-import-tests/refs/heads/main/test_xml_import.png</picture>
+                <n>Бутси підліткові Nike Jr Tiempo Maestro Academy Fgmg IB5026-146 38,5 (6Y US) білі</n>
+                <description><![CDATA[<p style="text-align:justify">Футбольні бутси Tiempo Maestro Academy дозволяють контролювати кожен дотик до м&#39;яча. М&#39;яка текстура шкіри FlyTouch забезпечує контроль над м&#39;ячем, допомагаючи вам сіяти хаос в будь-якій обороні.</p>
+
+<h3 style="text-align:justify">Особливості:</h3>
+
+<ul>
+	<li style="text-align:justify">Легкий верх FlyTouch забезпечує стабільний дотик до м&#39;яча як в сухих, так і у вологих умовах;</li>
+	<li style="text-align:justify">Шкіра FlyTouch допомагає черевику приймати форму вашої стопи, забезпечуючи комфорт, не розтягуючи при цьому матеріал;</li>
+	<li style="text-align:justify">Шипи у вигляді лез на підошві в області п&#39;яти і передньої частини стопи забезпечують зчеплення як зі штучними, так і з натуральними трав&#39;яними покриттями;</li>
+	<li style="text-align:justify">М&#39;яка устілка.</li>
+</ul>]]></description>
+                <param name="Вікова група">Дитячий</param>
+                <param name="Вид спорту">Для щоденного використання (зовн.)</param>
+                <param name="Тип застібки">Еластична шнурівка (зовн.)</param>
+            </offer>
+
+            <!-- id=670134, категорія=7427 | Взуття, одяг та аксесуари / Взуття / Бутси -->
+            <offer id="670134" available="true">
+                <url>https://nadm-dev.moyo.ua/products/update?id=670134</url>
+                <art_local>4069156647800</art_local>
+                <ean>4069156647800</ean>
+                <supplier_code>ЦОФ00564856</supplier_code>
+                <price>999.00</price>
+                <currencyId>UAH</currencyId>
+                <categoryId>7427</categoryId>
+                <picture>https://raw.githubusercontent.com/testermoyo-source/xml-import-tests/refs/heads/main/test_xml_import.png</picture>
+                <n>Бутси дитячі Puma Future 8 Match Fg/Ag Jr 108614-01 38 (5 UK) білі</n>
+                <description><![CDATA[<p style="text-align:justify">Плеймейкери, розкрийте свій творчий потенціал з Future 8 Match. М&#39;який, легкий верх з сітки покращує посадку і стійкість, а рельєфні сітчасті лінії покращують зчеплення з м&#39;ячем. Форма шипів і їх розташування навколо точки обертання забезпечують 360-градусну маневреність і свободу рухів, щоб ти міг з легкістю відірватися від захисників.</p>
+
+<h3 style="text-align:justify">Особливості:</h3>
+
+<ul>
+	<li style="text-align:justify">Вид спорту: футбол.</li>
+	<li style="text-align:justify">Ширина: стандартна.</li>
+	<li style="text-align:justify">Рельєфні сітчасті лінії для кращого зчеплення і контролю м&#39;яча.</li>
+	<li style="text-align:justify">Застібка: шнурки.</li>
+	<li style="text-align:justify">М&#39;який, легкий верх з сітки з еластичним трикотажним коміром і середньою висотою для поліпшеної посадки, комфорту і підтримки.</li>
+	<li style="text-align:justify">Підкладка: текстиль.</li>
+	<li style="text-align:justify">Підтримуюча стрічка в зоні підйому забезпечує фіксацію і стабільність.</li>
+	<li style="text-align:justify">Покриття: твердий ґрунт/штучне покриття.</li>
+	<li style="text-align:justify">Інноваційна форма, розташування і орієнтація шипів забезпечують швидкі розвороти і маневреність на 360&deg; як на твердому покритті, так і на штучній траві.</li>
+	<li style="text-align:justify">Вміст перероблених матеріалів: верх виготовлено з переробленого матеріалу не менше ніж на 30% і втілює крок вперед, до кращого майбутнього.</li>
+	<li style="text-align:justify">Матеріал верху: синтетичні матеріали, текстиль.</li>
+	<li style="text-align:justify">Матеріал підошви: синтетичні матеріали.</li>
+</ul>
+
+<h3>Рекомендації з догляду:</h3>
+
+<ul>
+	<li>Після кожного використання просушіть взуття, залишивши його на повітрі. Попередньо вийміть устілки та розв&#39;яжіть шнурки.</li>
+	<li>Якщо взуття мокре, для збереження форми під час сушіння рекомендується набивати взуття папером або використовувати спеціальні розпірки.</li>
+	<li>Шкіряне взуття необхідно промити спеціальною губкою або м&#39;якою тканиною з милом. Після просушування обов&#39;язково обробити кремом для взуття.</li>
+	<li>Взуття з текстильних матеріалів протирати вологою тканиною, змоченою в теплому мильному розчині, або прати вручну за допомогою м&#39;якої щітки й мила в теплій воді.</li>
+	<li>Після прання необхідно ретельно прополоскати.</li>
+	<li>Взуття необхідно сушити при кімнатній температурі. Категорично забороняється прискорювати процес сушіння за допомогою радіаторів, фена, вогню та інших джерел тепла.</li>
+	<li>Замшеве взуття необхідно раз на місяць обробляти водовідштовхувальним засобом.</li>
+</ul>]]></description>
+                <param name="Вікова група">Дорослі</param>
+                <param name="Матеріал">Синтетика (зовн.)</param>
+                <param name="Вид спорту">Зал</param>
+            </offer>
+        </offers>
+    </shop>
+</yml_catalog>
