@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2026-05-06 12:00:00">
+    <shop>
+        <name>Тестовий магазин</name>
+        <company>Test Company</company>
+        <url>https://test-shop.com.ua</url>
+        <categories>
+            <category id="7406">Сабо</category>
+        </categories>
+        <offers>
+
+            <!--
+                Товар 594513 | Сабо Skechers GoWalk 5
+                Тестуємо 4 різні структури характеристик в одному файлі:
+                1. Просте значення з paramid
+                2. Мультизначення через кому з id і value_id
+                3. Вкладені теги з мовою (без id)
+                4. Комбінація — вкладені теги з id і мовою
+            -->
+            <offer id="594513" available="true">
+                <url>https://nadm-dev.moyo.ua/products/update?id=594513</url>
+                <art_local>KM3587-100</art_local>
+                <ean>194428033129</ean>
+                <supplier_code>ЦОФ00488068</supplier_code>
+                <price>999.00</price>
+                <currencyId>UAH</currencyId>
+                <categoryId>7406</categoryId>
+                <n>Сабо чоловічі Skechers GoWalk 5 - Astonished 243002 NVRD 43</n>
+                <picture>https://i.moyo.ua/img/products/6434/46_4000.jpg</picture>
+                <picture>https://i.moyo.ua/img/products/6434/51_4000.jpg</picture>
+
+                <!-- Структура 1: просте значення з paramid -->
+                <param name="Стать" paramid="5584">Для жінок</param>
+
+                <!-- Структура 2: мультизначення через кому з id і value_id -->
+                <param name="Розмір EU" id="8705" value_id="700207,700208">35,36</param>
+
+                <!-- Структура 3: вкладені теги з мовою (без id) -->
+                <param name="Матеріал підошви">
+                    <value lang="uk">ЕВА</value>
+                    <value lang="ru">ЕВА</value>
+                </param>
+
+                <!-- Структура 4: комбінація — вкладені теги з id і мовою -->
+                <param name="Основний колір" id="7758">
+                    <value lang="uk">Фіолетовий</value>
+                    <value lang="ru">Фиолетовый</value>
+                </param>
+
+            </offer>
+        </offers>
+    </shop>
+</yml_catalog>

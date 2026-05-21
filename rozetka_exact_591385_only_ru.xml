@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2026-04-09 12:00:00">
+    <shop>
+        <n>Тестовий магазин</n>
+        <company>Test Company</company>
+        <url>https://test-shop.com.ua</url>
+        <categories>
+            <category id="7219">Кросівки</category>
+        </categories>
+        <offers>
+
+            <!-- id=591385 -->
+            <offer id="591385" available="true">
+                <url>https://nadm-dev.moyo.ua/products/update?id=591385</url>
+                <art_local>KW8825-110</art_local>
+                <ean>196989322919</ean>
+                <supplier_code>ЦОФ00487672</supplier_code>
+                <price>1299.00</price>
+                <currencyId>UAH</currencyId>
+                <categoryId>7219</categoryId>
+                <picture>https://www.moyo.ua/new-moyo/build/img/about_company_man_on_sofa.png</picture>
+                <n>Кроссовки женские Skechers Sport Skech-Lite Pro - Glimmer Me 150041 ROS 41 (11 US) розовые</n>
+                <description><![CDATA[<p>Тестирование перевода. TEST_RU</p><p style="text-align:justify">Изысканный стиль и комфорт сочетаются в Skechers Skech-Lite Pro - Glimmer Me. Эта модель имеет эластичный сетчатый верх с радужными накладками и стельку из пены с вентиляцией и амортизацией.</p>
+
+<h3 style="text-align:justify">Особенности:</h3>
+
+<ul>
+	<li style="text-align:justify">Удобная стелька Skechers Air-Cooled Memory Foam.</li>
+	<li style="text-align:justify">Изготовлено из 100% веганских материалов.</li>
+	<li style="text-align:justify">Сетчатый верх с радужными термоплавкими накладками и эластичными шнурками.</li>
+	<li style="text-align:justify">Амортизирующая промежуточная подошва Skech-Lite.</li>
+	<li style="text-align:justify">М&#39;якая подошва.</li>
+</ul>
+
+<h3 style="text-align:justify">Рекомендации по уходу:</h3>
+
+<ul>
+	<li style="text-align:justify">После каждого ношения просушивать обувь, избегая нагрева.</li>
+	<li style="text-align:justify">Использовать влагозащитный спрей.</li>
+	<li style="text-align:justify">Рекомендуется химчистка, если производитель не указал иной способ чистки на изделии или упаковке.</li>
+	<li style="text-align:justify">Избегать сильного намокания во время ношения.</li>
+	<li style="text-align:justify">Хранить обувь, используя специальные вставки или бумагу для поддержания формы.</li>
+</ul>]]></description>
+                <param name="Основний колір">Синій</param>
+                <param name="Стать">Для жінок</param>
+            </offer>
+
+        </offers>
+    </shop>
+</yml_catalog>

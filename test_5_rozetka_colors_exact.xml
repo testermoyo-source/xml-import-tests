@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2026-04-09 12:00:00">
+    <shop>
+        <n>Тестовий магазин</n>
+        <company>Test Company</company>
+        <url>https://test-shop.com.ua</url>
+        <categories>
+            <category id="7219">Кросівки</category>
+        </categories>
+        <offers>
+
+            <!-- id=591385 -->
+            <offer id="591385" available="true">
+                <url>https://nadm-dev.moyo.ua/products/update?id=591385</url>
+                <art_local>KW8825-110</art_local>
+                <ean>196989322919</ean>
+                <supplier_code>ЦОФ00487672</supplier_code>
+                <price>1299.00</price>
+                <currencyId>UAH</currencyId>
+                <categoryId>7219</categoryId>
+                <picture>https://www.moyo.ua/new-moyo/build/img/about_company_man_on_sofa.png</picture>
+                <n>Кросівки жіночі Skechers Sport Skech-Lite Pro - Glimmer Me 150041 ROS 41 (11 US) рожеві</n>
+                <description><![CDATA[<p>TEST_UA 333</p><p style="text-align:justify">Витончений стиль і комфорт поєднуються в Skechers Skech-Lite Pro - Glimmer Me. Ця модель має еластичний сітчастий верх із райдужними накладками та устілку з піни з вентиляцією й амортизацією.</p>
+
+<h3 style="text-align:justify">Особливості:</h3>
+
+<ul>
+	<li style="text-align:justify">Зручна устілка Skechers Air-Cooled Memory Foam.</li>
+	<li style="text-align:justify">Виготовлено зі 100% веганських матеріалів.</li>
+	<li style="text-align:justify">Сітчастий верх з райдужними термоплавкими накладками та еластичними шнурками.</li>
+	<li style="text-align:justify">Амортизувальна проміжна підошва Skech-Lite, що амортизує.</li>
+	<li style="text-align:justify">М&#39;яка підошва.</li>
+</ul>
+
+<h3 style="text-align:justify">Рекомендації з догляду:</h3>
+
+<ul>
+	<li style="text-align:justify">Після кожного носіння просушувати взуття, уникаючи нагрівання.</li>
+	<li style="text-align:justify">Використовувати вологозахисний спрей.</li>
+	<li style="text-align:justify">Рекомендується хімчистка, якщо виробник не вказав інший спосіб чищення на виробі або упаковці.</li>
+	<li style="text-align:justify">Уникати сильного намокання під час носіння.</li>
+	<li style="text-align:justify">Зберігати взуття, використовуючи спеціальні вставки або папір для підтримки форми.</li>
+</ul>]]></description>
+                <param name="Основний колір">Синій</param>
+                <param name="Стать">Для жінок</param>
+            </offer>
+
+            <!-- id=591470 -->
+            <offer id="591470" available="true">
+                <url>https://nadm-dev.moyo.ua/products/update?id=591470</url>
+                <art_local>KK3565-15</art_local>
+                <ean>196989487397</ean>
+                <supplier_code>ЦОФ00487755</supplier_code>
+                <price>1299.00</price>
+                <currencyId>UAH</currencyId>
+                <categoryId>7219</categoryId>
+                <picture>https://www.moyo.ua/new-moyo/build/img/about_company_moon_stars.png</picture>
+                <n>Кросівки для дівчаток Skechers Dynamatic 303552L BLK 33 (1.5 US) чорні</n>
+                <description><![CDATA[<p>TEST_UA 333</p><p style="text-align:justify">Пригоди чекають на вас разом з кросівками Skechers Dynamatic. Ці спортивні кросівки мають верх із сітчастого текстилю та синтетики, що дозволяє відводити зайве тепло, а зручна амортизуюча проміжна підошва зробить кожний ваш крок комфортним.</p>
+
+<h3 style="text-align:justify">Особливості:</h3>
+
+<ul>
+	<li style="text-align:justify">Легкий повсякденний дизайн;</li>
+	<li style="text-align:justify">Верх із сітчастого текстилю та синтетики;</li>
+	<li style="text-align:justify">Застібка-липучка;</li>
+	<li style="text-align:justify">М&#39;яка, комфортна устілка;</li>
+	<li style="text-align:justify">Гнучка підошва.</li>
+</ul>
+
+<h3>Рекомендації з догляду:</h3>
+
+<ul>
+	<li>Після кожного носіння просушувати взуття, уникаючи нагрівання.</li>
+	<li>Використовувати вологозахисний спрей.</li>
+	<li>Рекомендується хімчистка, якщо виробник не вказав інший спосіб чищення на виробі або упаковці.</li>
+	<li>Уникати сильного намокання під час носіння.</li>
+	<li>Зберігати взуття в коробці, використовуючи спеціальні вставки або папір для підтримки форми.</li>
+</ul>]]></description>
+                <param name="Основний колір">Червоний</param>
+                <param name="Стать">Для дівчаток</param>
+            </offer>
+
+            <!-- id=591482 -->
+            <offer id="591482" available="true">
+                <url>https://nadm-dev.moyo.ua/products/update?id=591482</url>
+                <art_local>KK3565-35</art_local>
+                <ean>196989487434</ean>
+                <supplier_code>ЦОФ00487767</supplier_code>
+                <price>1299.00</price>
+                <currencyId>UAH</currencyId>
+                <categoryId>7219</categoryId>
+                <picture>https://www.moyo.ua/new-moyo/build/img/about_company_man_on_sofa.png</picture>
+                <n>Кросівки для дівчаток Skechers Dynamatic 303552L BLK 35.5 (3.5 US) чорні</n>
+                <description><![CDATA[<p>TEST_UA 333</p><p style="text-align:justify">Пригоди чекають на вас разом з кросівками Skechers Dynamatic. Ці спортивні кросівки мають верх із сітчастого текстилю та синтетики, що дозволяє відводити зайве тепло, а зручна амортизуюча проміжна підошва зробить кожний ваш крок комфортним.</p>
+
+<h3 style="text-align:justify">Особливості:</h3>
+
+<ul>
+	<li style="text-align:justify">Легкий повсякденний дизайн;</li>
+	<li style="text-align:justify">Верх із сітчастого текстилю та синтетики;</li>
+	<li style="text-align:justify">Застібка-липучка;</li>
+	<li style="text-align:justify">М&#39;яка, комфортна устілка;</li>
+	<li style="text-align:justify">Гнучка підошва.</li>
+</ul>
+
+<h3>Рекомендації з догляду:</h3>
+
+<ul>
+	<li>Після кожного носіння просушувати взуття, уникаючи нагрівання.</li>
+	<li>Використовувати вологозахисний спрей.</li>
+	<li>Рекомендується хімчистка, якщо виробник не вказав інший спосіб чищення на виробі або упаковці.</li>
+	<li>Уникати сильного намокання під час носіння.</li>
+	<li>Зберігати взуття в коробці, використовуючи спеціальні вставки або папір для підтримки форми.</li>
+</ul>]]></description>
+                <param name="Основний колір">Зелений</param>
+                <param name="Стать">Для дівчаток</param>
+            </offer>
+
+            <!-- id=592355 -->
+            <offer id="592355" available="true">
+                <url>https://nadm-dev.moyo.ua/products/update?id=592355</url>
+                <art_local>XK8836-25</art_local>
+                <ean>8056206497047</ean>
+                <supplier_code>ЦОФ00488486</supplier_code>
+                <price>1299.00</price>
+                <currencyId>UAH</currencyId>
+                <categoryId>7219</categoryId>
+                <picture>https://www.moyo.ua/new-moyo/build/img/about_company_company_logo.png</picture>
+                <n>Кросівки для дівчаток Geox B Macchia Girl B364PC-08510-C8W1M 25 рожеві</n>
+                <description><![CDATA[<p>TEST_UA 333</p><p style="text-align:justify">Кросівки для дівчинки мають повітропроникний дизайн та привабливу естетику в стилі кежуал. Ця версія Macchia ніжно-рожевого кольору з м&#39;яким верхом та практичною застібкою на липучці, яка забезпечує легке взування та регульовану посадку. Також гарантується підтримка, захист та максимальне відчуття комфорту для маленьких дослідників.</p>
+
+<h3 style="text-align:justify">Особливості:</h3>
+
+<ul>
+	<li style="text-align:justify">Відмінна гнучкість, гарантована протектором Flexy System.</li>
+	<li style="text-align:justify">Зручні в носінні.</li>
+	<li style="text-align:justify">Посилений носок та підтримка гомілковостопного суглоба.</li>
+	<li style="text-align:justify">Одинарна застібка на липучці та еластична шнурівка.</li>
+	<li style="text-align:justify">Антибактеріальна устілка, виготовлена з нетоксичної шкіри, яка не містить хрому.</li>
+</ul>]]></description>
+                <param name="Основний колір">Чорний</param>
+                <param name="Стать">Для дівчаток</param>
+            </offer>
+
+            <!-- id=592505 -->
+            <offer id="592505" available="true">
+                <url>https://nadm-dev.moyo.ua/products/update?id=592505</url>
+                <art_local>XK8844-39</art_local>
+                <ean>8056206554443</ean>
+                <supplier_code>ЦОФ00488636</supplier_code>
+                <price>1299.00</price>
+                <currencyId>UAH</currencyId>
+                <categoryId>7219</categoryId>
+                <picture>https://www.moyo.ua/new-moyo/build/img/about_company_moon_stars.png</picture>
+                <n>Кросівки для дівчаток Geox J Eclyper Girl J36LRA-000BC-C0761 39 білі</n>
+                <description><![CDATA[<p>TEST_UA 333</p><p style="text-align:justify">Легкі та зручні кросівки, натхненні класикою тенісного корту. М&#39;який матеріал зі шкіряним ефектом ідеально облягає ногу, а еластична шнурівка та зручна застібка на липучці дозволяють швидко взутися та відчути себе максимально комфортно. Бузкові акценти додають взуттю свіжості та оригінальності, роблячи його яскравим доповненням до будь-якого повсякденного образу. Ці кросівки &ndash; ідеальний вибір для тих, хто цінує стиль та комфорт.</p>
+
+<h3 style="text-align:justify">Особливості:</h3>
+
+<ul>
+	<li style="text-align:justify">Виготовлені з високоякісних матеріалів, прослужать довгі роки.</li>
+	<li style="text-align:justify">Зручна устілка забезпечує комфорт та підтримку стопи протягом усього дня.</li>
+	<li style="text-align:justify">Технології амортизації зменшують навантаження на суглоби та роблять ходьбу більш приємною.</li>
+</ul>]]></description>
+                <param name="Основний колір">Білий</param>
+                <param name="Стать">Для жінок</param>
+            </offer>
+        </offers>
+    </shop>
+</yml_catalog>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2026-04-09 12:00:00">
+    <shop>
+        <n>Тестовий магазин</n>
+        <company>Test Company</company>
+        <url>https://test-shop.com.ua</url>
+        <categories>
+            <category id="7219">Кросівки</category>
+        </categories>
+        <offers>
+
+            <!-- id=591385 -->
+            <offer id="591385" available="true">
+                <url>https://nadm-dev.moyo.ua/products/update?id=591385</url>
+                <art_local>KW8825-110</art_local>
+                <ean>196989322919</ean>
+                <supplier_code>ЦОФ00487672</supplier_code>
+                <price>1299.00</price>
+                <currencyId>UAH</currencyId>
+                <categoryId>7219</categoryId>
+                <picture>https://www.moyo.ua/new-moyo/build/img/about_company_man_on_sofa.png</picture>
+                <n>Кросівки жіночі Skechers Sport Skech-Lite Pro - Glimmer Me 150041 ROS 41 (11 US) рожеві</n>
+                <description><![CDATA[]]></description>
+                <param name="Основний колір">Синій</param>
+                <param name="Стать">Для жінок</param>
+            </offer>
+
+        </offers>
+    </shop>
+</yml_catalog>

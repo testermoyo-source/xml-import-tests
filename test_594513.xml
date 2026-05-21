@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalog>
+    <products>
+        <product>
+            <id>594513</id>
+            <code1C>ЦОФ00488068</code1C>
+            <barcode>194428033129</barcode>
+            <article>KM3587-100</article>
+
+            <nameUa>Сабо чоловічі Skechers GoWalk 5 - Astonished 243002 NVRD 43 (10 US) сині - TEST UA</nameUa>
+            <nameRu>Сабо мужские Skechers GoWalk 5 - Astonished 243002 NVRD 43 (10 US) синие - TEST RU</nameRu>
+
+            <shortDescriptionUa><![CDATA[Сабо чоловічі Skechers GoWalk 5 сині - TEST_UA]]></shortDescriptionUa>
+            <shortDescriptionRu><![CDATA[Сабо мужские Skechers GoWalk 5 синие - TEST_RU]]></shortDescriptionRu>
+
+            <descriptionUa><![CDATA[
+                <h3 style="text-align:justify">TEST_UA Дивовижний комфорт у кожному кроці з Skechers Go Walk 5</h3>
+
+                <p style="text-align:justify">Ці перфоровані сабо - мають гнучкий верх піноматеріалу EVA, що переходить у легку підошву ULTRA GO з технологією Comfort Pillar.</p>
+
+                <h3 style="text-align:justify">Особливості:</h3>
+
+                <ul>
+                    <li style="text-align:justify">Легка підошва ULTRA GO з м&#39;якою амортизацією.</li>
+                    <li style="text-align:justify">Технологія Comfort Pillar.</li>
+                    <li style="text-align:justify">Легкий гнучкий верх з піноматеріалу EVA.</li>
+                    <li style="text-align:justify">Контурна устілка.</li>
+                    <li style="text-align:justify">Перфорована конструкція з ремінцем для п&#39;яти.</li>
+                    <li style="text-align:justify">Підходять для води.</li>
+                </ul>
+            ]]></descriptionUa>
+
+            <descriptionRu><![CDATA[
+                <h3 style="text-align:justify">TEST_RU Удивительный комфорт в каждом шаге с Skechers Go Walk 5</h3>
+
+                <p style="text-align:justify">Эти перфорированные сабо - имеют гибкий верх пеноматериала EVA, переходящий в легкую подошву ULTRA GO с технологией Comfort Pillar.</p>
+
+                <h3 style="text-align:justify">Особенности:</h3>
+
+                <ul>
+                    <li style="text-align:justify">Легкая подошва ULTRA GO с мягкой амортизацией.</li>
+                    <li style="text-align:justify">Технология Comfort Pillar.</li>
+                    <li style="text-align:justify">Легкий гибкий верх из пеноматериала EVA.</li>
+                    <li style="text-align:justify">Контурная стелька.</li>
+                    <li style="text-align:justify">Перфорированная конструкция с ремешком для пятки.</li>
+                    <li style="text-align:justify">Подходят для воды.</li>
+                </ul>
+            ]]></descriptionRu>
+
+            <images>
+                <image>https://i.moyo.ua/img/products/6434/46_4000.jpg</image>
+                <image>https://i.moyo.ua/img/products/6434/51_4000.jpg</image>
+                <image>https://raw.githubusercontent.com/testermoyo-source/xml-import-tests/refs/heads/main/test_xml_import.png</image>
+            </images>
+
+            <properties>
+                <property id="8705" nameUa="Розмір EU" nameRu="Размер EU" valueId="700207" valueUa="35" valueRu="35" />
+                <property id="7758" nameUa="Основний колір" nameRu="Основной цвет" valueId="672453" valueUa="Фіолетовий" valueRu="Фиолетовый" />
+                <property id="5584" nameUa="Стать" nameRu="Пол" valueId="265771" valueUa="Для жінок" valueRu="Для женщин" />
+            </properties>
+        </product>
+    </products>
+</catalog>

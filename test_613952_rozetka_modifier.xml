@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2026-04-24 12:00:00">
+    <shop>
+        <name>Тестовий магазин</name>
+        <company>Test Company</company>
+        <url>https://test-shop.com.ua</url>
+        <categories>
+            <category id="3015">Ноутбуки</category>
+        </categories>
+        <offers>
+
+            <!-- id=613952 | Ноутбук ASUS Zenbook 14 -->
+            <!-- Модифікатори:
+                 Діагональ екрана      — розділювач ";"
+                 Роздільна здатність   — розділювач "|"
+                 Серія процесора       — trim (зайві пробіли)
+                 Тактова частота       — заміна крапки на кому
+                 Ширина виробу         — прибрати " мм"
+                 Яскравість екрана     — додати " нт" в кінці
+                 Висота виробу         — прибрати " мм" + ділити на 10
+                 Розкладка клавіатури  — розділювач ","
+            -->
+            <offer id="613952" available="true">
+                <url>https://nadm-dev.moyo.ua/products/update?id=613952</url>
+                <art_local>90NB10G6-M017J0</art_local>
+                <ean>4711387681749</ean>
+                <supplier_code>ЦОФ00510988</supplier_code>
+                <price>999.00</price>
+                <currencyId>UAH</currencyId>
+                <categoryId>3015</categoryId>
+                <n>Ноутбук ASUS Zenbook 14 UX3402VA-KP783 + Фірмовий чохол (90NB10G6-M017J0)</n>
+
+                <!-- trim -->
+                <param name="Серія процесора">  Intel Core i7  </param>
+
+                <!-- заміна крапки на кому -->
+                <param name="Тактова частота, ГГц">2.4-5.0</param>
+
+                <!-- розділювач ";" -->
+                <param name="Діагональ, дюйм">14; 15</param>
+
+                <!-- розділювач "|" -->
+                <param name="Роздільна здатність">1400 x 900 (HD+) | 2560 x 1600 - WQXGA | 3840 x 2160 (Ultra HD 4K)</param>
+
+                <!-- прибрати " мм" -->
+                <param name="Ширина виробу, мм">313,6 мм</param>
+
+                <!-- додати " нт" в кінці -->
+                <param name="Яскравість, ніт">400</param>
+
+                <!-- прибрати " мм" + ділити на 10 → см -->
+                <param name="Висота виробу, мм">169 мм</param>
+
+                <!-- розділювач "," -->
+                <param name="Розкладка клавіатури">Українська, Англійська</param>
+
+            </offer>
+        </offers>
+    </shop>
+</yml_catalog>
